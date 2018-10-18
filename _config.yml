@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+title: "SSC Pacific Unmanned Systems and Robotics Publications"
+description: "An archive of unmanned systems and robotics papers from U.S. Navy SPAWAR Systems Center (SSC) Pacific"
