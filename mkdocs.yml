@@ -1,0 +1,11 @@
+site_name: NIWC Pacific Unmanned Systems and Robotics Publications
+site_url: https://tdenewiler.github.io/Publications
+site_description: An archive of unmanned systems and robotics papers from U.S. Navy Information Warfare Center (NIWC) Pacific
+
+repo_name: tdenewiler/Publications
+repo_url: https://github.com/tdenewiler/Publications
+
+theme: material
+
+markdown_extensions:
+    - pymdownx.details
