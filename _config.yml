@@ -1,5 +1,9 @@
-theme: jekyll-theme-cayman
+title: "NIWC Pacific Unmanned Systems and Robotics Publications"
+description: "An archive of unmanned systems and robotics papers from U.S. Navy Information Warfare Center (NIWC) Pacific"
+baseurl: /Publications
+markdown: CommonMarkGhPages
+future: true
 plugins:
-  - jekyll-seo-tag
-title: "SSC Pacific Unmanned Systems and Robotics Publications"
-description: "An archive of unmanned systems and robotics papers from U.S. Navy SPAWAR Systems Center (SSC) Pacific"
+    - jekyll-seo-tag
+-gems:
+    - jekyll-seo-tag
