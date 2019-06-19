@@ -1606,6 +1606,7 @@ If you have other publications to contribute to the archive, please contact Robo
     * Nguyen, H.G., P.K. Kaomea, and P.J. Heckman, Jr.,
       "Machine Visual Guidance for an Autonomous Undersea Submersible",
       SPIE Proc. 980: Underwater Imaging, San Diego, CA; pp. 82-89; 1988.
+      [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1988/SPIE980_NguyenH.pdf)
     * Ream, D.,
       "Mine Neutralization Vehicle (MNV) Hydraulic Power Unit (HPU) Vibration Study",
       NOSC TD 1358, Naval Ocean Systems Center, San Diego, CA, October 1988.
