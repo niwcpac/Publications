@@ -32,11 +32,13 @@ If you have other publications to contribute to the archive, please contact Robo
 
     * Kelley, L, Ouimet, M., Martinez, L., Gustafson, E., and J. Jen,
       "Development of a Human-Multi-AI Agent Experimental Framework",
-      27th Int. Joint Conf. on Artificial Intelligence and 23rd European Conference on Artificial Intelligence (IJCAI-ECAI-18), Stockholm, Sweden, July 13-19, 2018.
+      27th Int. Joint Conf. on Artificial Intelligence and 23rd European Conference on Artificial Intelligence (IJCAI-ECAI-18),
+      Stockholm, Sweden, July 13-19, 2018.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2018/IJCAI_2018_Poster_Human_Autonomy_Teaming_Rev1.pdf)
 
     * Powell, D., and K. Nguyen,
-      "Common Submarine Coordinated Asset Planner for Engagement (C-SCAPE): Integrated Planning and Execution for Submarine Deployed Unmanned Vehicles",
+      "Common Submarine Coordinated Asset Planner for Engagement (C-SCAPE): Integrated Planning and Execution for
+      Submarine Deployed Unmanned Vehicles",
       2018 Joint Undersea Warfare Technology Spring Conference, San Diego, CA, March 12-14, 2018.
 
     * Talke, K., de Oliveira,M., and T. Bewley,
@@ -104,7 +106,8 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/101950M.pdf)
     * Kelley, L., Ouimet, M., Croft, B., Gustafson, E, and L. Martinez,
       "An Approach to Integrating Human Knowledge into Agent-Based Planning",
-      Workshop on Impedance Matching in Cognitive Partnerships, 2017 International Joint Conference on Artificial Intelligence (IJCAI-17), Melbourne, Victoria, Australia, 21 August 2017.
+      Workshop on Impedance Matching in Cognitive Partnerships, 2017 International Joint Conference on Artificial Intelligence (IJCAI-17),
+      Melbourne, Victoria, Australia, 21 August 2017.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/Kelley_Human_Agent_Based_Planning_COGPARTNER_17.pdf)
 
 ??? "2016"
@@ -331,7 +334,8 @@ If you have other publications to contribute to the archive, please contact Robo
       "Manually-Deployed Communication Relays (MDCR) Operator Manual for the iRobot/Boeing Mini-EOD Revision A",
       SPAWAR Systems Center Pacific Technical Document 3263, San Diego, CA, May 30, 2012.
     * Nguyen, H.G., Pezeshkian, N., Holz, K., Hart, A., Baker, M., and R. Fransham,
-      "Manually-Deployed Communication Relays (MDCR) Installation Manual for use with iRobot PackBot 510 and the iRobot/Boeing Mini-EOD (SUGV 310) Revision A",
+      "Manually-Deployed Communication Relays (MDCR) Installation Manual for use with iRobot PackBot 510 and the
+      iRobot/Boeing Mini-EOD (SUGV 310) Revision A",
       SPAWAR Systems Center Pacific Technical Document 3264, San Diego, CA, May 30, 2012.
     * Nguyen, H.G., Pezeshkian, N., Holz, K., Hart, A., Baker, M., and R. Fransham,
       "Manually-Deployed Communication Relays (MDCR) Operator Manual for the iRobot PackBot 510 Revision A",
@@ -787,7 +791,8 @@ If you have other publications to contribute to the archive, please contact Robo
       "Segway Robotic Mobility Platform",
       SPIE Proc. 5609: Mobile Robots XVII, Philadelphia, PA, October 26-28, 2004.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2004/spie5609-27.pdf)
-    * Nguyen, H.G., Kogut, G., Barua, R., Burmeister, A., Pezeshkian, N., Powell, D., Farrington, N., Wimmer, M., Cicchetto, B., Heng, C., and V. Ramirez,
+    * Nguyen, H.G., Kogut, G., Barua, R., Burmeister, A., Pezeshkian, N., Powell, D., Farrington, N., Wimmer, M.,
+      Cicchetto, B., Heng, C., and V. Ramirez,
       "A Segway RMP-based robotic transport system",
       SPIE Proc. 5609: Mobile Robots XVII, Philadelphia, PA, October 26-28, 2004.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2004/spie5609-30.pdf)
@@ -854,7 +859,8 @@ If you have other publications to contribute to the archive, please contact Robo
       ONR-UCLA Autonomous Intelligent Networks and Systems Symposium, Los Angeles, CA, 8-9 May 2002.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2002/ainss02.pdf)
     * Blackburn, M.R., Everett, H.R., and R.T. Laird,
-      "After Action Report to the Joint Program Office: Center for the Robotic Assisted Search and Rescue (CRASAR) Related Efforts at the World Trade Center",
+      "After Action Report to the Joint Program Office: Center for the Robotic Assisted Search and Rescue (CRASAR)
+      Related Efforts at the World Trade Center",
       Technical Document 3141, Space and Naval Warfare Systems Center, San Diego, CA, August 2002.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2002/td3141.pdf)
     * Bruch, M.H., Gilbreath, G.A., Muelhauser, J.W.,and J.Q. Lum,
@@ -951,11 +957,13 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2000/spie4195b.pdf)
     * Gilbreath, G.A., Ciccimaro, D.A., and H.R. Everett,
       "An Advanced Telereflexive Tactical Response Robot",
-      Proceedings, Workshop 7: Vehicle Teleoperation Interfaces, IEEE International Conference on Robotics and Automation, ICRA2000, San Francisco, CA, 28 April, 2000.
+      Proceedings, Workshop 7: Vehicle Teleoperation Interfaces, IEEE International Conference on Robotics and Automation,
+      ICRA2000, San Francisco, CA, 28 April, 2000.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2000/icra2000a.pdf)
     * Laird, R.T., Bruch, M.H., West, M.B., Ciccimaro, D.A., and H.R. Everett,
       "Issues in Vehicle Teleoperation for Tunnel and Sewer Reconnaissance,"
-      Proceedings, Workshop 7: Vehicle Teleoperation Interfaces, IEEE International Conference on Robotics and Automation, ICRA2000, San Francisco, CA, 28 April, 2000.
+      Proceedings, Workshop 7: Vehicle Teleoperation Interfaces, IEEE International Conference on Robotics and Automation,
+      ICRA2000, San Francisco, CA, 28 April, 2000.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2000/icra2000b.pdf)
     * Nguyen, H.G. and J.P. Bott,
       "Robotics for Law Enforcement: Applications Beyond Explosive Ordnance Disposal,"
@@ -1105,7 +1113,8 @@ If you have other publications to contribute to the archive, please contact Robo
 
 ??? "1996"
 
-    * Borenstein, J., H. R. Everett, and L. Feng, Navigating Mobile Robots: Systems and Techniques, ISBN 1-56881-058-X. Wellesley, MA: A K Peters, 1996.
+    * Borenstein, J., H. R. Everett, and L. Feng,
+      Navigating Mobile Robots: Systems and Techniques, ISBN 1-56881-058-X. Wellesley, MA: A K Peters, 1996.
     * Cowen, S., S. Briest, and J. Dombrowski,
       "Application of Robotic Undersea Vehicles to Underwater Data Connectivity",
       PACON, Honolulu, HI, 20 June, 1996.
@@ -1150,7 +1159,8 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1995/vpec95.pdf)
     * Blackburn, M.R. and H.G. Nguyen,
       "Vision Based Autonomous Robot Navigation: Motion Segmentation",
-      Proc. 28th International Symposium on Automotive Technology and Automation (ISATA) Conference on Robotics, Motion, and Machine Vision in the Automotive Industries, pp. 353-360, Stuttgart, Germany; 1995.
+      Proc. 28th International Symposium on Automotive Technology and Automation (ISATA) Conference on Robotics, Motion,
+      and Machine Vision in the Automotive Industries, pp. 353-360, Stuttgart, Germany; 1995.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1995/isata95.pdf)
     * Everett, H.R., Sensors for Mobile Robots: Theory and Application, ISBN 1-56881-048-2. Wellesley, MA: A K Peters, 1995.
     * Everett, H.R.,
@@ -1273,11 +1283,13 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1994/ieee-ntc94.pdf)
     * Gage, D.W. and S.P. Hower,
       "The MDARS Multiple Robot Host Architecture",
-      Proceedings of AUVS-94, 21st Annual Technical Symposium and Exhibition of the Association for Unmanned Vehicle Systems, Detroit MI, 23-25 May 1994, pp 133-136.
+      Proceedings of AUVS-94, 21st Annual Technical Symposium and Exhibition of the Association for Unmanned Vehicle Systems,
+      Detroit MI, 23-25 May 1994, pp 133-136.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1994/auvs94-mdars.pdf)
     * Gage, D.W.,
       "Internet Tools for Sharing Unmanned Vehicle Information",
-      Proceedings of AUVS-94, 21st Annual Technical Symposium and Exhibition of the Association for Unmanned Vehicle Systems, Detroit MI, 23-25 May 1994, pp 563-570.
+      Proceedings of AUVS-94, 21st Annual Technical Symposium and Exhibition of the Association for Unmanned Vehicle Systems,
+      Detroit MI, 23-25 May 1994, pp 563-570.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1994/auvs94-net.pdf)
     * Gage, D.W.,
       "Cost-Optimization of Many-Robot Systems",
@@ -1345,7 +1357,8 @@ If you have other publications to contribute to the archive, please contact Robo
 
     * Blackburn, M.R.,
       "Response invariance in an artificial visual-motor system",
-      in IR-IED '92 Annual Report, NRaD TD 2412, Naval Command, Control and Ocean Surveillance Center, RDT&E Division, San Diego, California, 1992, 9-26.
+      in IR-IED '92 Annual Report, NRaD TD 2412, Naval Command, Control and Ocean Surveillance Center, RDT&E Division,
+      San Diego, California, 1992, 9-26.
     * Brininstool, M.R. and J.H. Dombrowski,
       "NRaD Undersea Fiber Optic Development and Technology Transfer",
       Proceedings of MTS Intervention/ROV '92 Conference, June 10-12, 1992, San Diego, CA, pp. 473-478.
@@ -1370,7 +1383,8 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1992/spie92.pdf)
     * Gage, D.W.,
       "Command Control for Many-Robot Systems",
-      Proceedings of AUVS-92, 19th Annual Technical Symposium and Exhibition of the Association for Unmanned Vehicle Systems, Huntsville AL, 22-24 June 1992. Reprinted in Unmanned Systems Magazine, Fall 1992, volume 10, number 4, pp 28-34.
+      Proceedings of AUVS-92, 19th Annual Technical Symposium and Exhibition of the Association for Unmanned Vehicle Systems, Huntsville AL,
+      22-24 June 1992. Reprinted in Unmanned Systems Magazine, Fall 1992, volume 10, number 4, pp 28-34.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1992/auvs92.pdf)
     * Grace, D.R.,
       "Brownian Reber Search Theory for the Advanced Unmanned Search System",
@@ -1504,7 +1518,8 @@ If you have other publications to contribute to the archive, please contact Robo
       SPIE Proc 1388: Mobile Robots V, November, 1990, pp. 291-298.
     * Gage, D.W.,
       "Security Considerations for Autonomous Robots",
-      Computer Security Journal, vol VI, nbr 1, 1990, pp 95-99. Reprinted from Symposium on Security and Privacy, Oakland CA, 22-24 April 1985, Proceedings pp 224-228.
+      Computer Security Journal, vol VI, nbr 1, 1990, pp 95-99. Reprinted from Symposium on Security and Privacy, Oakland CA, 22-24 April 1985,
+      Proceedings pp 224-228.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1990/secur85.pdf)
     * Laird, R.T. and H.R. Everett,
       "Reflexive Teleoperated Control",
