@@ -1,7 +1,5 @@
 language: python
 
-python: 3.7
-
 branches: master
 
 notifications:
@@ -10,9 +8,16 @@ notifications:
 
 install:
   - pip install -r requirements.txt
+  - npm install -g markdownlint-cli
 
-script:
-  - mkdocs build --verbose --clean --strict
+jobs:
+  include:
+    - stage: "Static Site Generation"
+      name: "mkdocs build"
+      script: mkdocs build --verbose --clean --strict
+    - stage: "Documentation Test"
+      name: "Markdown Linter"
+      script: markdownlint docs/index.md
 
 deploy:
   provider: pages
