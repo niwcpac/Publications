@@ -8,7 +8,8 @@ If you have other publications to contribute to the archive, please contact Robo
 
 ???+ "2019"
 
-    * Nguyen, H.G., Nahill, B., Pezeshkian, N., Wilson, D.A., Yen, J., Leemaster, J., Telle, B., Suero, R., Sobchuk, J., Utin, D.,  Neff, J., and R. Khazan,
+    * Nguyen, H.G., Nahill, B., Pezeshkian, N., Wilson, D.A., Yen, J., Leemaster, J., Telle, B., Suero, R.,
+      Sobchuk, J., Utin, D.,  Neff, J., and R. Khazan,
       "A compact End Cryptographic Unit for tactical unmanned systems",
       SPIE Proc. 11021: Unmanned Systems Technology XXI, Baltimore, MD, April 16-18, 2019.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2019/SPIE-110210F.pdf)
@@ -436,7 +437,9 @@ If you have other publications to contribute to the archive, please contact Robo
       "Force Protection Joint Experiment (FPJE) Battlefield Anti-Intrusion System (BAIS) Sensors Data Analysis and Filtering Metrics",
       SPIE Proc. 7345: Multisensor, Multisource Information Fusion, Orlando, FL, 13-17 April, 2009.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2009/SPIE_7345-20%20_FPJE_BAIS.pdf)
-    * Bowen, A.D., Yoerger, D.R., Taylor, C.,  McCabe, R., Howland, J., Gomez-Ibanez, D., Kinsey, J.C., Heintz, M., McDonald, G., Peters, D.B., Bailey, J., Bors, E., Shank, T., Whitcomb, L.L., Martin, S.C., Webster, S.E., Jakuba, M.V., Fletcher, B., Young, C., Buescher, J., Fryer, P., and S. Hulme,
+    * Bowen, A.D., Yoerger, D.R., Taylor, C.,  McCabe, R., Howland, J., Gomez-Ibanez, D., Kinsey, J.C., Heintz, M.,
+      McDonald, G., Peters, D.B., Bailey, J., Bors, E., Shank, T., Whitcomb, L.L., Martin, S.C., Webster, S.E., Jakuba,
+      M.V., Fletcher, B., Young, C., Buescher, J., Fryer, P., and S. Hulme,
       "Field trials of the Nereus hybrid underwater robotic vehicle in the challenger deep of the Mariana Trench",
       MTS/IEEE OCEANS 2009, Biloxi, MS, Oct. 26-29, 2009.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2009/05422311.pdf)
@@ -469,14 +472,16 @@ If you have other publications to contribute to the archive, please contact Robo
       "Land, Sea, and Air Unmanned Systems Research and Development at SPAWAR Systems Center Pacific",
       SPIE Proc. 7332: Unmanned Systems Technology XI, Orlando, FL, 13-17 April, 2009.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2009/SPIE_2009_SSC_Pacific_Unmanned_Systems.pdf)
-    * Wills, M., Ciccimaro, D., Yee, S., Denewiler, T., Stroumtsos, N., Messamore, J., Brown, R., Skibba, B., Clapp, D., Wit, J., Shirts, R.J., Dion, G.N., and G.S. Anselmo,
+    * Wills, M., Ciccimaro, D., Yee, S., Denewiler, T., Stroumtsos, N., Messamore, J., Brown, R., Skibba, B., Clapp, D.,
+      Wit, J., Shirts, R.J., Dion, G.N., and G.S. Anselmo,
       "Joint Collaborative Technology Experiment",
       SPIE Proc. 7332: Unmanned Systems Technology XI, Orlando, FL, 13-17 April, 2009.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2009/SPIE_09_JCTE.pdf)
 
 ??? "2008"
 
-    * Bowen, A.D., Yoerger, D.R., Taylor, C., McCabe, R., Howland, J., Gomez-Ibanez, D., Kinsey, J.C., Heintz, M., McDonald, G., Peters, D.B., Fletcher, B., Young, C., Buescher, J., Whitcomb, L.L., Martin, S.C., Webster, S.E., and M.V. Jakuba,
+    * Bowen, A.D., Yoerger, D.R., Taylor, C., McCabe, R., Howland, J., Gomez-Ibanez, D., Kinsey, J.C., Heintz, M.,
+      McDonald, G., Peters, D.B., Fletcher, B., Young, C., Buescher, J., Whitcomb, L.L., Martin, S.C., Webster, S.E., and M.V. Jakuba,
       "The Nereus Hybrid Underwater Robotic Vehicle for Global Ocean Science Operations to 11,000m Depth",
       Proc. of the 2008 IEEE/MTS Oceans Conf., Quebec City, Canada, September 2008.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2008/hrov_oceans2008_final_41283.pdf)
@@ -572,7 +577,8 @@ If you have other publications to contribute to the archive, please contact Robo
       "Modular Robotic Intelligence System Based on Fuzzy Reasoning and State Machine Sequencing",
       SPIE Proc. 6561: Unmanned Systems Technology IX, Defense & Security Symposium, Orlando, FL, April 9-13, 2007.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2007/SPIE07_6561-83.pdf)
-    * Winso, J.H., Ackermann, E.S., Fennell, M., Perez, R., Rolando, J., Pagey, M., Polichar, R., Martinez, J., Hovgaard, J., Kogut, G., Everett, H.R., Fellars, D., Baumbaugh, J., and G. Mastny,
+    * Winso, J.H., Ackermann, E.S., Fennell, M., Perez, R., Rolando, J., Pagey, M., Polichar, R., Martinez, J.,
+      Hovgaard, J., Kogut, G., Everett, H.R., Fellars, D., Baumbaugh, J., and G. Mastny,
       "Geometrically Optimized, Labr3:Ce Scintillation Sensor Array for Enhanced Stand-Off Direction Finding of Gamma Radiation Sources",
       IEEE Nuclear Science Symposium, Honolulu, HI, October 27 - November 3, 2007.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2007/NSS_07.pdf)
