@@ -17,7 +17,7 @@ jobs:
       script: mkdocs build --verbose --clean --strict
     - stage: "Documentation Test"
       name: "Markdown Linter"
-      script: markdownlint -c markdownlint.json *.md
+      script: markdownlint -c markdownlint.json docs/index.md
 
 deploy:
   provider: pages
