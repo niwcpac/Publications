@@ -1728,7 +1728,8 @@ If you have other publications to contribute to the archive, please contact Robo
       Workshop on Robot Standards, Detroit MI, 6-7 June 1985, Proceedings pp 119-124.
     * Harmon, S.Y.,
       "Knowledge Based Position Location on Mobile Robots",
-      1985 IEEE International Conference on Industrial Electronics, Controls, and Instrumentation, San Francisco CA, 18-22 November 1985, Proceedings pp 174-179.
+      1985 IEEE International Conference on Industrial Electronics, Controls, and Instrumentation, San Francisco CA,
+      18-22 November 1985, Proceedings pp 174-179.
 
 ??? "1984"
 
