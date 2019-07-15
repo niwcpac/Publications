@@ -18,7 +18,7 @@ If you have other publications to contribute to the archive, please contact Robo
       "Man-Transportable Robotic System (MTRS) Adapter Installation and Operator Manual",
       Naval Information Warfare Center Pacific Technical Manual 15, San Diego, CA, May 2019.
 
-??? "2018"
+???+ "2018"
 
     * Cutler, S.,
       "A Search for the Optimal File Transfer Protocol from Surfaced UUVs to UAV Relays and Beyond",
@@ -54,7 +54,7 @@ If you have other publications to contribute to the archive, please contact Robo
       "Unmanned Cybersecurity Engineering Services Overview",
       NSWC Dahlgren/IHEODTD Unmanned Systems Integration Workshop and Technical Exchange, Dahlgren, VA, August 22-23, 2018.
 
-??? "2017"
+???+ "2017"
 
     * Bruch, M.,  Kelley, L., and C.J. Scrapper,
       "ONR 30 Autonomous Ground System Program Overview",
@@ -110,7 +110,7 @@ If you have other publications to contribute to the archive, please contact Robo
       Melbourne, Victoria, Australia, 21 August 2017.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/Kelley_Human_Agent_Based_Planning_COGPARTNER_17.pdf)
 
-??? "2016"
+???+ "2016"
 
     * Cario, G., Casavola, A., Djapic, V., Gjanci, P., Lupia, M., Petrioli, C., and D. Spaccini,
       "Clock Synchronization and Ranging Estimation for Control and Cooperation of Multiple UUVs",
@@ -157,7 +157,7 @@ If you have other publications to contribute to the archive, please contact Robo
       IEEE Systems Conference, Orlando, FL, 18-21 April, 2016.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2016/16.04%UxSITE%-%SYSCON%16.pdf)
 
-??? "2015"
+???+ "2015"
 
     * Djapic, V., Dong, W., Bulsara, A., and G. Anderson,
       "Challenges in underwater navigation: Exploring magnetic sensors anomaly sensing and navigation",
@@ -223,7 +223,7 @@ If you have other publications to contribute to the archive, please contact Robo
       SSC Pacific Spotlight Newsletter, San Diego, CA, February, 2015.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2015/SSCPacific-Spotlight_2015-02-Camo.pdf)
 
-??? "2014"
+???+ "2014"
 
     * Barngrover, C., Kastner, R., and S. Belongie,
       "Semisynthetic Versus Real-World Sonar Training Data for the Classification of Mine-Like Objects",
@@ -269,7 +269,7 @@ If you have other publications to contribute to the archive, please contact Robo
       SPIE Proc. 9084: Unmanned Systems Technology XVI, Baltimore, MD, May 6-8, 2014.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2014/SPIE_2014_Talke.pdf)
 
-??? "2013"
+???+ "2013"
 
     * Beel, J.,
       "Unmanned Systems",
@@ -304,7 +304,7 @@ If you have other publications to contribute to the archive, please contact Robo
       SPIE Proc. 8741: Unmanned Systems Technology XV, Baltimore, MD, May 1-3, 2013.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2013/SPIE2013-Raven.pdf)
 
-??? "2012"
+???+ "2012"
 
     * Ahuja, G., Fellars, D., Kogut, G., Rius, E.P., Schoolov, M., and A. Xydes,
       "Development and demonstration of autonomous behaviors for urban environment exploration",
@@ -357,7 +357,7 @@ If you have other publications to contribute to the archive, please contact Robo
       WBT Innovation Marketplace 2012, San Diego, CA, Oct 24-26, 2012.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2012/APDS-WBT_Presentation_18Oct2012.pdf)
 
-??? "2011"
+???+ "2011"
 
     * Barngrover, C., Belongie, S.,  and R. Kastner,
       "JBoost Optimization of Color Detectors for Autonomous Underwater Vehicle Navigation",
@@ -388,7 +388,7 @@ If you have other publications to contribute to the archive, please contact Robo
       SPAWAR Systems Center Pacific News Bulletin, San Diego, CA, March 2011.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2011/Navy%20Ground%20Robotics-NewsBulletin-March-2011.pdf)
 
-??? "2010"
+???+ "2010"
 
     * Borenstein, J., Thomas, D.L, Sights, B., Ojeda1, L., Bankole, P., and D. Fellars,
       "Human leader and robot follower team: correcting leader's position from follower's heading",
@@ -423,7 +423,7 @@ If you have other publications to contribute to the archive, please contact Robo
       SPIE Proc. 7692: Unmanned Systems Technology XII, Orlando, FL, April 5 - 9, 2010.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2010/SPIE%207692_55.pdf)
 
-??? "2009"
+???+ "2009"
 
     * Ahuja, G., Fellars, D., Kogut, G.T., Pacis Rius, E., Sights, B., and H.R. Everett,
       "Test Results of Autonomous Behaviors for Urban Environment Exploration",
@@ -482,7 +482,7 @@ If you have other publications to contribute to the archive, please contact Robo
       SPIE Proc. 7332: Unmanned Systems Technology XI, Orlando, FL, 13-17 April, 2009.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2009/SPIE_09_JCTE.pdf)
 
-??? "2008"
+???+ "2008"
 
     * Bowen, A.D., Yoerger, D.R., Taylor, C., McCabe, R., Howland, J., Gomez-Ibanez, D., Kinsey, J.C., Heintz, M.,
       McDonald, G., Peters, D.B., Fletcher, B., Young, C., Buescher, J., Whitcomb, L.L., Martin, S.C., Webster, S.E., and M.V. Jakuba,
@@ -544,7 +544,7 @@ If you have other publications to contribute to the archive, please contact Robo
       iRobot PackBot Developers Conference, Arlington, VA, May 13-14, 2008.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2008/SPAWAR_iRobot_Payload_Development%202008.pdf)
 
-??? "2007"
+???+ "2007"
 
     * Ahuja, G., Kogut, G., Pacis, E.B., Sights, B., Fellars, D., and H.R. Everett,
       "Layered Augmented Virtuality",
@@ -587,7 +587,7 @@ If you have other publications to contribute to the archive, please contact Robo
       IEEE Nuclear Science Symposium, Honolulu, HI, October 27 - November 3, 2007.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2007/NSS_07.pdf)
 
-??? "2006"
+???+ "2006"
 
     * Andrews, J., and B. Stratton,
       "Robotic Systems Pool: Robotic Assets for First Responders",
@@ -674,7 +674,7 @@ If you have other publications to contribute to the archive, please contact Robo
       IEEE OCEANS 2006, Boston, MA, Sept. 18-21, 2006.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2006/04098974.pdf)
 
-??? "2005"
+???+ "2005"
 
     * Barnes, M., Everett, H.R., and P. Rudakevych,
       "ThrowBot: Design Considerations for a Man-Portable Throwable Robot",
@@ -745,7 +745,7 @@ If you have other publications to contribute to the archive, please contact Robo
       Computing, Communications, and Control Technologies Conference, Austin, TX, July 24-27, 2005.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2005/CCCT%202005%20-%20Paper.pdf)
 
-??? "2004"
+???+ "2004"
 
     * Blackburn, M.R.,  Bailey, R., and B. Lytle,
       "Improved Mobility in a Multidegree-of-Freedom Unmanned Ground Vehicle",
@@ -801,7 +801,7 @@ If you have other publications to contribute to the archive, please contact Robo
       SPIE Proc. 5422: Unmanned Ground Vehicle Technology VI, Orlando, FL, April 13-15, 2004.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2004/spie5422-49.pdf)
 
-??? "2003"
+???+ "2003"
 
     * Arrieta, R. M., Farrell, J. A., Li, W., and S. Pang,
       "Initial Development and Testing of an Adaptive Mission Planner for a Small Unmanned Underwater Vehicle",
@@ -852,7 +852,7 @@ If you have other publications to contribute to the archive, please contact Robo
       IEEE OCEANS 2003, San Diego, CA, Sept. 22-26, 2003.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2003/01282715.pdf)
 
-??? "2002"
+???+ "2002"
 
     * Blackburn, M.R.,
       "Autonomy and Intelligence - A Question of Definitions",
@@ -888,7 +888,7 @@ If you have other publications to contribute to the archive, please contact Robo
       Int. Symposium on Underwater Technology, Tokyo, Japan, April 16-19, 2002.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2002/01002444.pdf)
 
-??? "2001"
+???+ "2001"
 
     * Blackburn, M.R., Laird, R.T., and H.R. Everett,
       "UGV Lessons Learned",
@@ -918,7 +918,7 @@ If you have other publications to contribute to the archive, please contact Robo
       "Recent U.S. Navy Underwater Vehicle Projects",
       24th Joint Meeting of the United States/Japan Committee on Natural Resources, Marine Facilities Panel, Honolulu, HI, November 7, 2001.
 
-??? "2000"
+???+ "2000"
 
     * Bruch, M.H., Laird, R.T., and H.R. Everett,
       "Challenges for deploying man-portable robots into hostile environments",
@@ -982,7 +982,7 @@ If you have other publications to contribute to the archive, please contact Robo
       The United States - Japan Cooperative Program in Natural Resources, 23rd Meeting of the Marine Facilities Panel, Tokyo, Japan, May 9-19, 2000.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2000/ujnr2000.pdf)
 
-??? "1999"
+???+ "1999"
 
     * Ciccimaro, D.A., H.R. Everett, M.H. Bruch, and C.B. Phillips,
       "A Supervised Autonomous Security Response Robot",
@@ -1022,7 +1022,7 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1999/oceans99.pdf)
     * Wernli, R.L. (editor), The Operational Effectiveness of Unmanned Underwater Systems (CD-ROM), Marine Technology Society, 1999.
 
-??? "1998"
+???+ "1998"
 
     * Bott, J.P., C.D. Metz, D.B. Law, and C.D. Aldridge,
       "Leveraging Improved Sensor and Officer Protection Technologies into the Southwest Border Surveillance Architecture",
@@ -1074,7 +1074,7 @@ If you have other publications to contribute to the archive, please contact Robo
       Proc. 14th Annual Nat. Defense Industrial Association (NDIA) Security Technology Symposium and Exhibition, Williamsburg, VA; June 15-18, 1998.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1998/ndia98.pdf)
 
-??? "1997"
+???+ "1997"
 
     * Borenstein, J., H.R. Everett, L. Feng, and D. Wehe,
       "Mobile Robot Positioning: Sensors and Techniques",
@@ -1111,7 +1111,7 @@ If you have other publications to contribute to the archive, please contact Robo
       MTS/IEEE OCEANS'97, Halifax, NS, Canada, Oct. 6-9, 1997.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1997/00624104.pdf)
 
-??? "1996"
+???+ "1996"
 
     * Borenstein, J., H. R. Everett, and L. Feng,
       Navigating Mobile Robots: Systems and Techniques, ISBN 1-56881-058-X. Wellesley, MA: A K Peters, 1996.
@@ -1151,7 +1151,7 @@ If you have other publications to contribute to the archive, please contact Robo
       Unmanned Systems, Vol. 14, No. 1, pp. 22-31, Winter 1996.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1996/us96.pdf)
 
-??? "1995"
+???+ "1995"
 
     * Blackburn, M.R.,
       "Motion Based Target Acquisition and Evaluation in an Adaptive Machine Vision System",
@@ -1243,7 +1243,7 @@ If you have other publications to contribute to the archive, please contact Robo
       MTS/IEEE Oceans95, San Diego, CA, October 12, 1995.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1995/oceans95.pdf)
 
-??? "1994"
+???+ "1994"
 
     * Blackburn, M.R. and H.G. Nguyen,
       "Robotic Sensor-Motor Transformations",
@@ -1316,7 +1316,7 @@ If you have other publications to contribute to the archive, please contact Robo
       "Robotic Inspection of Hazardous Waste Storage Sites: A Navigation Technology Assessment",
       NCCOSC Technical Note 1739, Naval Command Control and Ocean Surveillance Center, RDT&E Division, San Diego, CA, June, 1994.
 
-??? "1993"
+???+ "1993"
 
     * Blackburn, M.R.,
       "A simple computational model of center-surround receptive fields in the retina",
@@ -1353,7 +1353,7 @@ If you have other publications to contribute to the archive, please contact Robo
     * "Ocean Engineering: Into the 90s",
       NRaD Technical Document 1731, Naval Command, Control and Ocean Surveillance Center, RDT&E Division, January 1993.
 
-??? "1992"
+???+ "1992"
 
     * Blackburn, M.R.,
       "Response invariance in an artificial visual-motor system",
@@ -1441,7 +1441,7 @@ If you have other publications to contribute to the archive, please contact Robo
       "Advanced Unmanned Search System (AUSS) Testbed: FY 1987 Development Testing",
       NRaD TR 1525, Naval Command, Control and Ocean Surveillance Center, RDT&E Division, San Diego, CA, Nov. 1992.
 
-??? "1991"
+???+ "1991"
 
     * Brininstool, M.R.,
       "Oceanic Applications of Fiber Optics",
@@ -1491,7 +1491,7 @@ If you have other publications to contribute to the archive, please contact Robo
       "Neural Network Control of a Robotic Manipulator Arm for Undersea Applications",
       OCEANS 1991 Conference Proceedings, October 1-3, 1991, Honolulu, HI, Vol. 3, pp. 1534-1538.
 
-??? "1990"
+???+ "1990"
 
     * Aviles, W.A., T.W. Hughes, H.R. Everett, A.Y. Umeda, S.W. Martin, A.H. Koyamatsu, M.R. Solorzano, R.T. Laird, and S.P. McArthur,
       "Issues in Mobile Robotics: The Unmanned Ground Vehicle Program TeleOperated Vehicle (TOV)",
@@ -1540,7 +1540,7 @@ If you have other publications to contribute to the archive, please contact Robo
       Proc. Int. Joint Conf. on Neural Networks (IJCNN-90), Washington DC, 1990, volume II, pp 149-155.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1990/ijcnn90.pdf)
 
-??? "1989"
+???+ "1989"
 
     * Blackburn, M.R. and H.G. Nguyen,
       "Biological model of vision for an artificial system that learns to perceive its environment",
@@ -1577,7 +1577,7 @@ If you have other publications to contribute to the archive, please contact Robo
       "Naval Ocean Systems Center Underwater Vehicle History",
       NOSC TD 1530, Naval Ocean Systems Center, San Diego, CA, April 1989.
 
-??? "1988"
+???+ "1988"
 
     * Aviles, W.A., R.T. Laird, and M.E. Myers,
       "Toward a Modular Robotic Architecture",
@@ -1638,7 +1638,7 @@ If you have other publications to contribute to the archive, please contact Robo
       "Seawater Battery for Autonomous Submersibles",
       NOSC TR 1248, Naval Ocean Systems Center, San Diego, CA, October 1988.
 
-??? "1987"
+???+ "1987"
 
     * Chadwick, D.B.,
       "Stress Analysis: Saddle/Snubber Assembly",
@@ -1663,7 +1663,7 @@ If you have other publications to contribute to the archive, please contact Robo
       "The Ground Surveillance Robot (GSR): An Autonomous Vehicle Designed to Transit Unknown Terrain",
       IEEE Journal of Robotics and Automation, vol. RA-3, no 3, June 1987, pp 266-279.
 
-??? "1986"
+???+ "1986"
 
     * Everett, H.R. and A.M. Flynn,
       "A Programmable Near-Infrared Proximity Detector for Mobile Robot Navigation",
@@ -1688,7 +1688,7 @@ If you have other publications to contribute to the archive, please contact Robo
       "Graphite Fiber-Reinforced Plastic Pressure Hull Mod 1 for the Advanced Unmanned Search System (AUSS)",
       NOSC TR 1182, Naval Ocean Systems Center, San Diego, CA, December 1986.
 
-??? "1985"
+???+ "1985"
 
     * Aviles, W.A., D.W. Gage, S.Y. Harmon, and G.L. Bianchini,
       "An Architecture for the Coordination and Control of Complex Robotic Subsystems",
@@ -1731,7 +1731,7 @@ If you have other publications to contribute to the archive, please contact Robo
       1985 IEEE International Conference on Industrial Electronics, Controls, and Instrumentation, San Francisco CA,
       18-22 November 1985, Proceedings pp 174-179.
 
-??? "1984"
+???+ "1984"
 
     * Everett, H.R.,
       "Summary of Navy Applications of Robotics Sponsored by the Naval Sea Systems Command",
@@ -1760,7 +1760,7 @@ If you have other publications to contribute to the archive, please contact Robo
       IEEE OCEANS 1984, Washington, DC., Sept. 10-12, 1984.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1984/01152228.pdf)
 
-??? "1983"
+???+ "1983"
 
     * Harmon, S.Y.,
       "Abbreviated Comments on Route Planning in Unknown Natural Terrain",
@@ -1778,7 +1778,7 @@ If you have other publications to contribute to the archive, please contact Robo
       "Teleoperator Technology Development",
       Proc. of the 12th Meeting of the United States-Japan Cooperative Program in Natural Resource, San Francisco, CA, 1983.
 
-??? "1982"
+???+ "1982"
 
     * Everett, H.R.,
       "A Computer Controlled Sentry Robot",
@@ -1796,7 +1796,7 @@ If you have other publications to contribute to the archive, please contact Robo
       "Robots Support C3I: The Iron Hand in a White Glove",
       Signal Magazine, May/June 1982, pp 69-78.
 
-??? "1981 and Earlier"
+???+ "1981 and Earlier"
 
     * Harmon, S.Y. and D.W. Gage,
       "Protocols for Robot Communications: Transport and Content Layers",
