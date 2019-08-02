@@ -17,6 +17,11 @@ If you have other publications to contribute to the archive, please contact Robo
     * Nguyen, H.G., Telle, B., Pezeshkian, N., and Neff, J.,
       "Man-Transportable Robotic System (MTRS) Adapter Installation and Operator Manual",
       Naval Information Warfare Center Pacific Technical Manual 15, San Diego, CA, May 2019.
+
+    * Talke K., Drotman, D., Stroumtsos N., Oliveira M., and Bewley T.,
+      "Design and Parameter Optimization of a 3-\underline{P}SR Parallel Mechanism for Replicating Wave and Boat Motion",
+      2019 IEEE International Conference on Robotics and Automation (ICRA)
+      [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2019/15704-2594.pdf)
       
     * Yen, J., "Small Cryptographic Device to Support Unmanned Communications," 
       NSWC Dahlgren/IHEODTD 6th Annual Unmanned Systems Integration Workshop & Technical Exchange Meeting, Dahlgren, VA, August 7-8, 2019.
