@@ -14,13 +14,13 @@ If you have other publications to contribute to the archive, please contact Robo
       SPIE Proc. 11021: Unmanned Systems Technology XXI, Baltimore, MD, April 16-18, 2019.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2019/SPIE-110210F.pdf)
 
-    * Nguyen, H.G., Telle, B., Pezeshkian, N., and Neff, J.,
+    * Nguyen, H.G., Telle, B., Pezeshkian, N., and J. Neff,
       "Man-Transportable Robotic System (MTRS) Adapter Installation and Operator Manual",
       Naval Information Warfare Center Pacific Technical Manual 15, San Diego, CA, May 2019.
 
-    * Talke K., Drotman, D., Stroumtsos N., Oliveira M., and Bewley T.,
+    * Talke K., Drotman, D., Stroumtsos N., Oliveira M., and T. Bewley,
       "Design and Parameter Optimization of a 3-PSR Parallel Mechanism for Replicating Wave and Boat Motion",
-      2019 IEEE International Conference on Robotics and Automation (ICRA)
+      2019 IEEE International Conference on Robotics and Automation (ICRA), Montreal, CA, May 20-24, 2019.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2019/15704-2594.pdf)
       
     * Yen, J., "Small Cryptographic Device to Support Unmanned Communications," 
