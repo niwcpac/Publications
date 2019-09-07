@@ -68,55 +68,96 @@ If you have other publications to contribute to the archive, please contact Robo
       "ONR 30 Autonomous Ground System Program Overview",
       SPIE Proc. 10195: Unmanned Systems Technology XIX, Anaheim, CA, April 11-13, 2017.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/101950E.pdf)
+
     * Candela, P., Xydes, A., and A. Nans,
       "Designing an Operator Control Unit for Cooperative Autonomous Unmanned Systems",
       SPIE Proc. 10195: Unmanned Systems Technology XIX, Anaheim, CA, April 11-13, 2017.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/101950L.pdf)
+
     * de la Croix, J.P., Lim, G., Hook, J.V., Rahmani, A., Droge, G., Xydes, A., and C. Scrapper,
       "Mission Modeling, Planning, and Execution Module for Teams of Unmanned Vehicles",
       SPIE Proc. 10195: Unmanned Systems Technology XIX, Anaheim, CA, April 11-13, 2017.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/101950J.pdf)
+
     * Denewiler, T. and M. Tjersland,
       "Best Practices for Autonomous Vehicle Configuration Management",
       SPIE Proc. 10195: Unmanned Systems Technology XIX, Anaheim, CA, April 11-13, 2017.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/101950N.pdf)
+
     * Droge, G., Xydes, A., Rahmani, A., and C. Scrapper,
       "Adaptive Formation Control for Route-following Ground Vehicles",
       SPIE Proc. 10195: Unmanned Systems Technology XIX, Anaheim, CA, April 11-13, 2017.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/101950K.pdf)
+
     * Dzieciuch, I.,
       "Biologically-inspired approach to automatic processing of fly eye radarantenna array patterns with convolutional neural networks",
       SPIE Proc. 10195: Unmanned Systems Technology XIX, Anaheim, CA, April 11-13, 2017.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/101950C.pdf)
+
     * Dzieciuch, I.,  Reeder, J., Gutzwiller, R.,  Gustafson, E., Coronado, B., Martinez, L.,  Croft, B., and D.S. Lange,
       "Amplifying Human Ability through Autonomics and Machine Learning in IMPACT",
       SPIE Proc. 10194: Micro- and Nanotechnology Sensors, Systems, and Applications IX, Anaheim, CA, April 2017.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/101941Y.pdf)
+
     * Everett, H.R.,
       "A Brief Early History of Unmanned Systems,"
       Mechanix Illustrated, https://mechanixillustrated.technicacuriosa.com/2017/02/19/a-brief-early-history-of-unmanned-systems/, 19 February, 2017.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/A%Brief%Early%History%of%Unmanned%Systems%-%Mechanix%Illustrated.pdf)
+
     * Everett, H.R.,
       "On the Origins of AND-Gate Logic",
       Popular Electronics, https://popularelectronics.technicacuriosa.com/2017/03/31/on-the-origins-of-and-gate-logic/, 31 March, 2017.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/On%the%Origins%of%AND-Gate%Logic%-%Popular%Electronics.pdf)
+
     * Fletcher, B., Martin, S., Flores, G., Jones, A., Nguyen, A., Brown, M.H., and D.L. Moore,
       "From the Lab to the Ocean: Characterizing the Critical Docking Parameters for a Free Floating Dock with a REMUS 600",
       IEEE/MTS OCEANS'17, Anchorage, AK, 18-21 September, 2017.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/Fletcher_OCEANS17.pdf)
+
     * Galdorisi, G., Tollefson, B., and R. Volner,
       "Maximizing the Utility of Naval Unmanned Systems",
       IEEE/MTS OCEANS'17, Anchorage, AK, 18-21 September, 2017.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/Galdorisi_OCEANS17.pdf)
+
     * Halterman, R. and C. Scrapper,
       "A Systematic Approach to Autonomous Unmanned System Experimentation",
       SPIE Proc. 10195: Unmanned Systems Technology XIX, Anaheim, CA, April 11-13, 2017.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/101950M.pdf)
+
     * Kelley, L., Ouimet, M., Croft, B., Gustafson, E, and L. Martinez,
       "An Approach to Integrating Human Knowledge into Agent-Based Planning",
       Workshop on Impedance Matching in Cognitive Partnerships, 2017 International Joint Conference on Artificial Intelligence (IJCAI-17),
       Melbourne, Victoria, Australia, 21 August 2017.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/Kelley_Human_Agent_Based_Planning_COGPARTNER_17.pdf)
+
+    * Metcalfe, J.S., Marathe, A.R., Haynes, B.,  Paul, V.J., Gremillion, G.M., Drnec, K., Atwater, C., Estepp,  J.R., Lukos,  J.R., Carter, E.C., and W.D. Nothwang,
+      "Building a framework to manage trust in automation",
+      SPIE Proc. 10194: Micro- and Nanotechnology Sensors, Systems, and Applications IX, Anaheim, CA, April 2017.
+      [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/101941U.pdf)
+
+    * Nguyen, H.G., Pezeshkian, N., Yen, J., and A. Hart,
+      "Development of an advanced cybersecure radio for small unmanned ground vehicles",
+      SPIE Proc. 10195: Unmanned Systems Technology XIX, Anaheim, CA, April 11-13, 2017.
+      [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/101950Q.pdf)
+
+    * Pastore, T., Galdorisi, G., and A. Jones,
+      "Command and Control (C2) to Enable Multi-Domain Teaming of Unmanned Vehicles (UxVs)",
+      IEEE/MTS OCEANS'17, Anchorage, AK, 18-21 September, 2017.
+      [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/PastoreT_OCEANS17.pdf)
+
+    * Yen, J., Pradhan, A., Singh, D.,  Brower, D., Smigal, J., and P. Barlow,
+      "Cybersecurity for Unmanned Systems",
+      Technical Document 3317, Space and Naval Warfare Systems Center Pacific, San Diego, CA, April 2017.
+
+    * Yen, J., Smigal, J., Singh, D., Ricks, J., Brower, D., and P. Barlow,
+      "Cybersecurity for Unmanned Systems",
+      SPIE Proc. 10195: Unmanned Systems Technology XIX, Anaheim, CA, April 11-13, 2017.
+      [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/101950R.pdf)
+
+    * Zapf, J., Ahuja, G., Papon, J., Lee, D.,  Nash, J., and A. Rankin,
+      "A Perception Pipeline for Expeditionary Autonomous Ground Vehicles",
+      SPIE Proc. 10195: Unmanned Systems Technology XIX, Anaheim, CA, April 11-13, 2017.
+      [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/101950F.pdf)
 
 ???+ "2016"
 
