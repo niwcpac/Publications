@@ -1,7 +1,7 @@
-# Naval Information Warfare Center Pacific Unmanned Systems and Robotics Publications
+# Publications
 
 The following is a partial list of robotics publications authored by personnel of the Naval Information Warfare Center
-Pacific (and its predecessors, SSC Pacific, NRaD, and NOSC) and have been cleared for public release.
+Pacific (and its predecessors, SSC Pacific, NRaD, and NOSC) that have been cleared for public release.
 The index is listed by year in reversed chronological order and alphabetically by first author's surname within each year.
 Click the year to expand the list of publications from that year.
 If you have other publications to contribute to the archive, please contact RoboPubs@gmail.com.
