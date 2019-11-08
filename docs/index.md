@@ -24,13 +24,15 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2019/15704-2594.pdf)
       
     * Yen, J., "Small Cryptographic Device to Support Unmanned Communications," 
-      NSWC Dahlgren/IHEODTD 6th Annual Unmanned Systems Integration Workshop & Technical Exchange Meeting, Dahlgren, VA, August 7-8, 2019.
+      NSWC Dahlgren/IHEODTD 6th Annual Unmanned Systems Integration Workshop & Technical Exchange Meeting, Dahlgren, VA,
+      August 7-8, 2019.
 
 ???+ "2018"
 
     * Cutler, S.,
       "A Search for the Optimal File Transfer Protocol from Surfaced UUVs to UAV Relays and Beyond",
-      SPIE Proc. 10635: Ground/Air Multisensor Interoperability, Integration, and Networking for Persistent ISR IX, Orlando, FL, April 16-18, 2018.
+      SPIE Proc. 10635: Ground/Air Multisensor Interoperability, Integration, and Networking for Persistent ISR IX,
+      Orlando, FL, April 16-18, 2018.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2018/SPIE_10635-39.pdf)
 
     * Cutler, S.,
@@ -90,7 +92,8 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/101950K.pdf)
 
     * Dzieciuch, I.,
-      "Biologically-inspired approach to automatic processing of fly eye radarantenna array patterns with convolutional neural networks",
+      "Biologically-inspired approach to automatic processing of fly eye radarantenna array patterns with convolutional
+      neural networks",
       SPIE Proc. 10195: Unmanned Systems Technology XIX, Anaheim, CA, April 11-13, 2017.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/101950C.pdf)
 
@@ -101,12 +104,14 @@ If you have other publications to contribute to the archive, please contact Robo
 
     * Everett, H.R.,
       "A Brief Early History of Unmanned Systems,"
-      Mechanix Illustrated, https://mechanixillustrated.technicacuriosa.com/2017/02/19/a-brief-early-history-of-unmanned-systems/, 19 February, 2017.
+      Mechanix Illustrated, https://mechanixillustrated.technicacuriosa.com/2017/02/19/a-brief-early-history-of-unmanned-systems/,
+      19 February, 2017.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/A%Brief%Early%History%of%Unmanned%Systems%-%Mechanix%Illustrated.pdf)
 
     * Everett, H.R.,
       "On the Origins of AND-Gate Logic",
-      Popular Electronics, https://popularelectronics.technicacuriosa.com/2017/03/31/on-the-origins-of-and-gate-logic/, 31 March, 2017.
+      Popular Electronics, https://popularelectronics.technicacuriosa.com/2017/03/31/on-the-origins-of-and-gate-logic/,
+      31 March, 2017.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/On%the%Origins%of%AND-Gate%Logic%-%Popular%Electronics.pdf)
 
     * Fletcher, B., Martin, S., Flores, G., Jones, A., Nguyen, A., Brown, M.H., and D.L. Moore,
@@ -126,11 +131,13 @@ If you have other publications to contribute to the archive, please contact Robo
 
     * Kelley, L., Ouimet, M., Croft, B., Gustafson, E, and L. Martinez,
       "An Approach to Integrating Human Knowledge into Agent-Based Planning",
-      Workshop on Impedance Matching in Cognitive Partnerships, 2017 International Joint Conference on Artificial Intelligence (IJCAI-17),
+      Workshop on Impedance Matching in Cognitive Partnerships, 2017 International Joint Conference on Artificial Intelligence
+      (IJCAI-17),
       Melbourne, Victoria, Australia, 21 August 2017.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/Kelley_Human_Agent_Based_Planning_COGPARTNER_17.pdf)
 
-    * Metcalfe, J.S., Marathe, A.R., Haynes, B.,  Paul, V.J., Gremillion, G.M., Drnec, K., Atwater, C., Estepp,  J.R., Lukos,  J.R., Carter, E.C., and W.D. Nothwang,
+    * Metcalfe, J.S., Marathe, A.R., Haynes, B.,  Paul, V.J., Gremillion, G.M., Drnec, K., Atwater, C., Estepp,  J.R.,
+      Lukos,  J.R., Carter, E.C., and W.D. Nothwang,
       "Building a framework to manage trust in automation",
       SPIE Proc. 10194: Micro- and Nanotechnology Sensors, Systems, and Applications IX, Anaheim, CA, April 2017.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2017/101941U.pdf)
@@ -170,7 +177,8 @@ If you have other publications to contribute to the archive, please contact Robo
       MTS/IEEE Oceans'16, Monterey, CA, September 19-23, 2016.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2016/07761092.pdf)
     * Dove, R., Schindel, B., and C. Scrapper,
-      "Agile Systems Engineering Process Features Collective Culture, Consciousness, and Conscience  at SSC Pacific Unmanned Systems Group",
+      "Agile Systems Engineering Process Features Collective Culture, Consciousness, and Conscience  at SSC Pacific
+      Unmanned Systems Group",
       26th Annual INCOSE International Symposium (IS 2016), Edinburg, Scotland, UK, July 18-21, 2016.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2016/Pap160718IS16-AgileSECultureConsciousnessConscienceAtSSCPac.pdf)
     * Everett, H.R.,
@@ -212,7 +220,8 @@ If you have other publications to contribute to the archive, please contact Robo
       "Challenges in underwater navigation: Exploring magnetic sensors anomaly sensing and navigation",
       IEEE Sensors Applications Symposium, Zadar, Croatia, April 13-15, 2015.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2015/07133638.pdf)
-    * Djapic, V., Dong, W., Jones, A., Cario, G., Casavola, A., Lupia, M., Rosace, C., Gjanci, P., Petroccia, R., Petrioli, C., Spaccini, D., and D. Tommaselli,
+    * Djapic, V., Dong, W., Jones, A., Cario, G., Casavola, A., Lupia, M., Rosace, C., Gjanci, P., Petroccia, R.,
+      Petrioli, C., Spaccini, D., and D. Tommaselli,
       "Advanced underwater acoustic networking and cooperation of multiple marine robots",
       MTS/IEEE Oceans'15, Genoa, Italy, May 18-21, 2015.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2015/07458713.pdf)
@@ -236,7 +245,8 @@ If you have other publications to contribute to the archive, please contact Robo
       "Unmanned Systems of World Wars I and II",
       MIT Press, Cambridge, MA, November, 2015.
     * Ferri, G., Ferreira, F. and V. Djapic,
-      "Boosting the Talent of New Generations of Marine Engineers Through Robotics Competitions in Realistic Environments: the SAUC-E and EuRathlon Experience",
+      "Boosting the Talent of New Generations of Marine Engineers Through Robotics Competitions in Realistic Environments:
+      the SAUC-E and EuRathlon Experience",
       MTS/IEEE Oceans'15, Genoa, Italy, May 18-21, 2015.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2015/07271509.pdf)
     * Harguess, J.D., Bilinski, M., Nguyen, K.B., and D.N. Powell,
@@ -290,7 +300,8 @@ If you have other publications to contribute to the archive, please contact Robo
       53rd IEEE Conference on Decision and Control, Los Angeles, CA, December 15-17, 2014.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2014/07039964.pdf)
     * Coker, A., Straatemeier, L, Rogers, T., Valdez, P., Griendling, K., and D. Cooksey,
-      "Intermittent Communications Modeling and Simulation for Autonomous Unmanned Maritime Vehicles using an integrated APM and FSMC Framework",
+      "Intermittent Communications Modeling and Simulation for Autonomous Unmanned Maritime Vehicles using an integrated
+      APM and FSMC Framework",
       SPIE Proc. 9084: Unmanned Systems Technology XVI, Baltimore, MD, May 6-8, 2014.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2014/SPIE_2014_Coker.pdf)
     * Harguess, J., and S. Strange,
@@ -487,7 +498,8 @@ If you have other publications to contribute to the archive, please contact Robo
       SPIE Proc. 7345: Multisensor, Multisource Information Fusion, Orlando, FL, 13-17 April, 2009.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2009/SPIE_7345-13%20_DFE_for_the_FPJE.pdf)
     * Barngrover, C.M., Laird, R.T., Kramer, T.A., Cruickshanks, J.R., and S.H. Cutler,
-      "Force Protection Joint Experiment (FPJE) Battlefield Anti-Intrusion System (BAIS) Sensors Data Analysis and Filtering Metrics",
+      "Force Protection Joint Experiment (FPJE) Battlefield Anti-Intrusion System (BAIS) Sensors Data Analysis and
+      Filtering Metrics",
       SPIE Proc. 7345: Multisensor, Multisource Information Fusion, Orlando, FL, 13-17 April, 2009.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2009/SPIE_7345-20%20_FPJE_BAIS.pdf)
     * Bowen, A.D., Yoerger, D.R., Taylor, C.,  McCabe, R., Howland, J., Gomez-Ibanez, D., Kinsey, J.C., Heintz, M.,
@@ -501,7 +513,8 @@ If you have other publications to contribute to the archive, please contact Robo
       AUVSI Unmanned Systems Program Review, Washington, DC, 3-5 February, 2009.
     * Cutler, S.H., Cruickshanks, J.R., Barngrover, C.M., Kramer, T.A., and A.F. Nans,
       "Universal Resource Interface Module (URIM) for the Joint Force Protection Advanced Security System (JFPASS)",
-      SPIE Proc. 7333: Unattended Ground, Sea, and Air Sensor Technologies and Applications XI, Orlando, FL, 13-17 April, 2009.
+      SPIE Proc. 7333: Unattended Ground, Sea, and Air Sensor Technologies and Applications XI, Orlando, FL,
+      13-17 April, 2009.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2009/SPIE_7333-14%20_URIM_JFPASS.pdf)
     * Djapic, V., Farrell, J., and W. Dong,
       "Unifying Behavior-Based Control Design and Hybrid Stability Theory",
@@ -511,7 +524,8 @@ If you have other publications to contribute to the archive, please contact Robo
       "The NEREUS Hybrid Remotely Operated Vehicle (HROV) Design and Demonstration",
       Underwater Intervention Conference, New Orleans, LA, 3-5 March, 2009.
     * Holste, S.T., Ciccimaro, D.A., and D.D. Dudenhoeffer,
-      "Increasing the Mobility of Dismounted Marines--Small Unit Mobility Enhancement Technologies: Unmanned Ground Vehicles Market Survey",
+      "Increasing the Mobility of Dismounted Marines--Small Unit Mobility Enhancement Technologies: Unmanned Ground
+      Vehicles Market Survey",
       Technical Report 1988, Space and Naval Warfare Systems Center Pacific, San Diego, CA, October 2009.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2009/TR1988.pdf)
     * Holz, K., Burmeister, A., Carter, M., and K. Brown,
@@ -534,7 +548,8 @@ If you have other publications to contribute to the archive, please contact Robo
 ???+ "2008"
 
     * Bowen, A.D., Yoerger, D.R., Taylor, C., McCabe, R., Howland, J., Gomez-Ibanez, D., Kinsey, J.C., Heintz, M.,
-      McDonald, G., Peters, D.B., Fletcher, B., Young, C., Buescher, J., Whitcomb, L.L., Martin, S.C., Webster, S.E., and M.V. Jakuba,
+      McDonald, G., Peters, D.B., Fletcher, B., Young, C., Buescher, J., Whitcomb, L.L., Martin, S.C., Webster, S.E.,
+      and M.V. Jakuba,
       "The Nereus Hybrid Underwater Robotic Vehicle for Global Ocean Science Operations to 11,000m Depth",
       Proc. of the 2008 IEEE/MTS Oceans Conf., Quebec City, Canada, September 2008.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2008/hrov_oceans2008_final_41283.pdf)
@@ -543,7 +558,8 @@ If you have other publications to contribute to the archive, please contact Robo
       Robo Development Conference & Expo '08, Santa Clara, CA, Nov. 18-19, 2008.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2008/RoboDevelopment2008.pdf)
     * Buescher, J., Mailey, C., Stenson, R., and D. Sura,
-      "Preliminary Design and Prototyping Results of an Encapsulated Underwater Launch System for Micro Unmanned Aerial Vehicles (UAVs)",
+      "Preliminary Design and Prototyping Results of an Encapsulated Underwater Launch System for Micro Unmanned Aerial
+      Vehicles (UAVs)",
       AUVSI Unmanned Systems Asia-Pacific, Singpore, Feb. 17-18, 2008.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2008/AUVSI_Sura.pdf)
     * Djapic, V., Farrell, J., and W. Dong,
@@ -600,7 +616,8 @@ If you have other publications to contribute to the archive, please contact Robo
       Proc. 13th IASTED Int. Conf. on Robotics and Applications, Wuerzburg, Germany; August 29-31, 2007.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2007/IASTED_563-085.pdf)
     * Djapic, V., Farrell, J., Miller, P., and R. Arrieta,
-      "Design and initial in-water testing of advanced non-linear control algorithms onto an Unmanned Underwater Vehicle (UUV)",
+      "Design and initial in-water testing of advanced non-linear control algorithms onto an Unmanned Underwater
+      Vehicle (UUV)",
       MTS/IEEE OCEANS 2007, Vancouver, BC, Canada, Sept. 29 - Oct. 4, 2007.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2007/Djapic_Oceans07.pdf)
     * Djapic, V., Farrell, J., Miller, P., and R. Arrieta,
@@ -632,7 +649,8 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2007/SPIE07_6561-83.pdf)
     * Winso, J.H., Ackermann, E.S., Fennell, M., Perez, R., Rolando, J., Pagey, M., Polichar, R., Martinez, J.,
       Hovgaard, J., Kogut, G., Everett, H.R., Fellars, D., Baumbaugh, J., and G. Mastny,
-      "Geometrically Optimized, Labr3:Ce Scintillation Sensor Array for Enhanced Stand-Off Direction Finding of Gamma Radiation Sources",
+      "Geometrically Optimized, Labr3:Ce Scintillation Sensor Array for Enhanced Stand-Off Direction Finding of Gamma
+      Radiation Sources",
       IEEE Nuclear Science Symposium, Honolulu, HI, October 27 - November 3, 2007.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2007/NSS_07.pdf)
 
@@ -648,7 +666,8 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2006/SPIE_6230-100_FIRRE-RSS.pdf)
     * Kogut, G., Ahuja, G., Pacis, E.B., Carroll, D., Giles, J., Rogers, B., and J. Nanzer,
       "Sensor Fusion for Automatic Detection of Human Presence",
-      Int. Joint Topic: 9th Emergency Preparedness and Response/11th Robotics and Remote Systems for Hazardous Environments, Salt Lake City, Utah, Februrary 12-15, 2006.
+      Int. Joint Topic: 9th Emergency Preparedness and Response/11th Robotics and Remote Systems for Hazardous Environments,
+      Salt Lake City, Utah, Februrary 12-15, 2006.
     * Kogut, G. T., Birchmore, F., Pacis, E. B., Ahuja, G., Sights, B, and B. Everett,
       "Using advanced computer vision algorithms on small mobile robots",
       SPIE Proc. 6230: Unmanned Systems Technology VIII, Defense & Security Symposium, Orlando, FL, April 17-20, 2006.
@@ -671,7 +690,8 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2006/IEEE_RO_A05_254LiFarrellPangArrieta.pdf)
     * Mullens, K., Burmeister, A., Wills, M., Nelson, T., and T. Denewiler,
       "Development of a UGV-mounted Automated Refueling System for VTOL UAVs",
-      (poster) SPIE Proc. 6230: Unmanned Systems Technology VIII, Defense & Security Symposium, Orlando, FL, April 17-20, 2006.
+      (poster) SPIE Proc. 6230: Unmanned Systems Technology VIII, Defense & Security Symposium, Orlando, FL,
+      April 17-20, 2006.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2006/SPIE_06%20AUMS_final.pdf)
     * Mullens, K., Troyer, B., Wade, R., Skibba, B., and M. Dunn,
       "Collaborative Engagement Experiment",
@@ -679,7 +699,8 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2006/SPIE_06-CEE_final.pdf)
     * Mullens, K., Burmeister, A., Wills, M., Stroumstso, N., Denewiler, T., Pachura, J., Prior, G., and B. Hawkins,
       "Automated Launch, Landing and Refueling Technologies for Increased UGV-UAV Effectiveness",
-      2006 International Joint Topic: 9th Emergency Preparedness and Response/11th Robotics and Remote Systems for Hazardous Environments, Salt Lake City, Utah, Februrary 12-15, 2006.
+      2006 International Joint Topic: 9th Emergency Preparedness and Response/11th Robotics and Remote Systems for
+      Hazardous Environments, Salt Lake City, Utah, Februrary 12-15, 2006.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2006/IJT_AUMS_2006.pdf)
     * Nguyen, C., Carroll, D., and H.G. Nguyen,
       "Integration of robotic resources to FORCEnet",
@@ -718,7 +739,8 @@ If you have other publications to contribute to the archive, please contact Robo
     * Sights, B., Everett, H.R., Pacis, E., Kogut, G., and M. Thompson,
       "Integrated Control Strategies Supporting Autonomous Functionalities in Mobile Robots",
       Journal of Systemics, Cybernetics and Informatics, Volume 4 - Number 5, pgs. 43-48.
-    * Young, C., Fletcher, B., Buescher, J., Whitcomb, L.L., Yoerger, D., Bowen, A., McCabe, R., Heintz, M., Fuhrmann, R., Taylor, C., and R. Elder,
+    * Young, C., Fletcher, B., Buescher, J., Whitcomb, L.L., Yoerger, D., Bowen, A., McCabe, R., Heintz, M.,
+      Fuhrmann, R., Taylor, C., and R. Elder,
       "Field Tests of the Hybrid Remotely Operated Vehicle (HROV) Light Fiber Optic Tether",
       IEEE OCEANS 2006, Boston, MA, Sept. 18-21, 2006.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2006/04098974.pdf)
@@ -854,7 +876,8 @@ If you have other publications to contribute to the archive, please contact Robo
 
     * Arrieta, R. M., Farrell, J. A., Li, W., and S. Pang,
       "Initial Development and Testing of an Adaptive Mission Planner for a Small Unmanned Underwater Vehicle",
-      Proc. ASME 22nd Int. Conf. on Offshore Mechanics and Artic Engineering, OMEA2003-37273, Cancun, Mexico, June 8-13, 2003.
+      Proc. ASME 22nd Int. Conf. on Offshore Mechanics and Artic Engineering, OMEA2003-37273, Cancun, Mexico,
+      June 8-13, 2003.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2003/OMAE2003-37273%20%20AMP.pdf)
     * Blackburn, M.R.,
       "Learning Mobility: Adaptive Control Algorithms for the Novel Unmanned Ground Vehicle (NUGV)",
@@ -965,7 +988,8 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2001/pacon2001a.pdf)
     * Wernli, R.L.,
       "Recent U.S. Navy Underwater Vehicle Projects",
-      24th Joint Meeting of the United States/Japan Committee on Natural Resources, Marine Facilities Panel, Honolulu, HI, November 7, 2001.
+      24th Joint Meeting of the United States/Japan Committee on Natural Resources, Marine Facilities Panel, Honolulu, HI,
+      November 7, 2001.
 
 ???+ "2000"
 
@@ -977,7 +1001,8 @@ If you have other publications to contribute to the archive, please contact Robo
       "Motion Control Issues for a Tactical Response Robot",
       SENSORS, pp. 109-113, May 2000.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2000/SENSORS_2000.pdf)
-    * Everett, H.R., Laird, R.T., Carroll, D.M., Gilbreath, G., Heath-Pastore, T.A., Inderieden, R.S., Tran, T., Grant, K., and D.M. Jaffee,
+    * Everett, H.R., Laird, R.T., Carroll, D.M., Gilbreath, G., Heath-Pastore, T.A., Inderieden, R.S., Tran, T.,
+      Grant, K., and D.M. Jaffee,
       "Multiple Resource Host Architecture (MRHA) for the Mobile Detection Assessment Response System (MDARS)",
       Technical Document 3026, Revision A, Space and Naval Warfare Systems Center, San Diego, CA, September 2000.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2000/td3026a.pdf)
@@ -1028,14 +1053,16 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2000/oceans2000.pdf)
     * Wernli, R.L.,
       "SSC San Diego--The World Is Our Platform",
-      The United States - Japan Cooperative Program in Natural Resources, 23rd Meeting of the Marine Facilities Panel, Tokyo, Japan, May 9-19, 2000.
+      The United States - Japan Cooperative Program in Natural Resources, 23rd Meeting of the Marine Facilities Panel,
+      Tokyo, Japan, May 9-19, 2000.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2000/ujnr2000.pdf)
 
 ???+ "1999"
 
     * Ciccimaro, D.A., H.R. Everett, M.H. Bruch, and C.B. Phillips,
       "A Supervised Autonomous Security Response Robot",
-      American Nuclear Society 8th International Topical Meeting on Robotics and Remote Systems (ANS'99), Pittsburgh, PA, 25-29 April, 1999.
+      American Nuclear Society 8th International Topical Meeting on Robotics and Remote Systems (ANS'99), Pittsburgh, PA,
+      25-29 April, 1999.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1999/ans99_robart3.pdf)
     * Everett, H.R.,
       "Looking Back, Moving Forward",
@@ -1043,7 +1070,8 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1999/sensors_ed.pdf)
     * Everett, H.R. and D.W. Gage,
       "From Laboratory to Warehouse: Security Robots Meet the Real World",
-      International Journal of Robotics Research, Special Issue on Field and Service Robotics, volume 18, number 7, July 1999, pp 760-768.
+      International Journal of Robotics Research, Special Issue on Field and Service Robotics, volume 18, number 7,
+      July 1999, pp 760-768.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1999/ijrr99.pdf)
     * Everett, H.R., R. Inderieden, D. Jaffee, and R. Walker,
       "RoboGuards Nab Bads, Track Tagged Goods,"
@@ -1055,27 +1083,32 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1999/00799731.pdf)
     * D.W. Gage,
       "If our robots are so smart, why aren't we all rich: the challenges of integrating autonomous robots",
-      IEEE Intl Symposium on Computational Intelligence in Robotics and Automation (CIRA 99), Monterey, CA, 8-9 November 1999.
+      IEEE Intl Symposium on Computational Intelligence in Robotics and Automation (CIRA 99), Monterey, CA,
+      8-9 November 1999.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1999/cira99.pdf)
     * Heath-Pastore, T., H.R. Everett, and K. Bonner,
       "Mobile Robots for Outdoor Security Applications",
-      American Nuclear Society 8th International Topical Meeting on Robotics and Remote Systems (ANS'99), Pittsburgh, PA, 25-29 April, 1999.
+      American Nuclear Society 8th International Topical Meeting on Robotics and Remote Systems (ANS'99), Pittsburgh, PA,
+      25-29 April, 1999.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1999/ans99_mdars_e.pdf)
     * Laird, R.T, H.R. Everett, G.A. Gilbreath, R.S. Inderieden, and K.J. Grant,
       "Early User Appraisal of the MDARS Interior Robot",
-      American Nuclear Society 8th International Topical Meeting on Robotics and Remote Systems (ANS'99), Pittsburgh, PA, 25-29 April, 1999.
+      American Nuclear Society 8th International Topical Meeting on Robotics and Remote Systems (ANS'99), Pittsburgh, PA,
+      25-29 April, 1999.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1999/ans99_mdars_eua.pdf)
     * Wernli, R.L.,
       "AUV's--The Maturity of the Technology",
       MTS/IEEE OCEANS'99, Seattle, WA, September 13-16, 1999.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1999/oceans99.pdf)
-    * Wernli, R.L. (editor), The Operational Effectiveness of Unmanned Underwater Systems (CD-ROM), Marine Technology Society, 1999.
+    * Wernli, R.L. (editor), The Operational Effectiveness of Unmanned Underwater Systems (CD-ROM),
+      Marine Technology Society, 1999.
 
 ???+ "1998"
 
     * Bott, J.P., C.D. Metz, D.B. Law, and C.D. Aldridge,
       "Leveraging Improved Sensor and Officer Protection Technologies into the Southwest Border Surveillance Architecture",
-      SPIE Proc. 3577: Sensors, C3I, Information, and Training Technologies for Law Enforcement, Boston, MA, 3-5 November, 1998.
+      SPIE Proc. 3577: Sensors, C3I, Information, and Training Technologies for Law Enforcement, Boston, MA,
+      3-5 November, 1998.
     * Bryan, W.D., H.G. Nguyen, and D.W. Gage,
       "Man-Portable Networked Sensor System",
       SPIE Proc. 3394: Sensor Technology for Soldier Systems, Orlando, FL, 13 April 1998, pp 79-88.
@@ -1086,11 +1119,13 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1998/spie0898.pdf)
     * Ciccimaro, D.A., H.R. Everett, G.A. Gilbreath, and T.T. Tran,
       "An Automated Security Response Robot",
-      SPIE Proc. 3525: Mobile Robots XIII and Intelligent Transportation Systems, Boston, Massachusetts, 1-5 November 1998, pp 50-61.
+      SPIE Proc. 3525: Mobile Robots XIII and Intelligent Transportation Systems, Boston, Massachusetts,
+      1-5 November 1998, pp 50-61.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1998/spie3525a.pdf)
     * Cory, P., H.R. Everett, and T. Heath-Pastore,
       "Radar-Based Intruder Detection for a Robotic Security System",
-      SPIE Proc. 3525: Mobile Robots XIII and Intelligent Transportation Systems, Boston, Massachusetts, 1-5 November 1998, pp 62-72.
+      SPIE Proc. 3525: Mobile Robots XIII and Intelligent Transportation Systems, Boston, Massachusetts,
+      1-5 November 1998, pp 62-72.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1998/spie3525b.pdf)
     * Estabrook, A., R. MacDougall, and R. Ludwig,
       "Unmanned Air Vehicle Impact on CVX Design",
@@ -1116,11 +1151,13 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1998/spie3393.pdf)
     * Murphy, D. and J. Cycon,
       "Applications for Mini VTOL UAV for Law Enforcement",
-      SPIE Proc. 3577: Sensors, C3I, Information, and Training Technologies for Law Enforcement, Boston, MA, 3-5 November 1998.
+      SPIE Proc. 3577: Sensors, C3I, Information, and Training Technologies for Law Enforcement, Boston, MA,
+      3-5 November 1998.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1998/spie3577.pdf)
     * Murray, S.A., Gage, D.W., Bott, J.P, Murphy, D.W, Bryan, W.D., Martin, S.W. and H.G. Nguyen,
       "Advanced User Interface Design and Advanced Internetting for Tactical Security Systems",
-      Proc. 14th Annual Nat. Defense Industrial Association (NDIA) Security Technology Symposium and Exhibition, Williamsburg, VA; June 15-18, 1998.
+      Proc. 14th Annual Nat. Defense Industrial Association (NDIA) Security Technology Symposium and Exhibition,
+      Williamsburg, VA; June 15-18, 1998.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1998/ndia98.pdf)
 
 ???+ "1997"
@@ -1143,7 +1180,8 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1997/oceans97.pdf)
     * Gage, D.,
       "The Road Toward Useful UGVs",
-      in AW&ST-AUVSI 1997-98 International Guide to Unmanned Vehicles, New York: The McGraw-Hill Companies, May 1997, pp 84-86.
+      in AW&ST-AUVSI 1997-98 International Guide to Unmanned Vehicles, New York: The McGraw-Hill Companies, May 1997,
+      pp 84-86.
     * Gage, D.W.,
       "Network Protocols for Mobile Robot Systems",
       SPIE Proc. 3210: Mobile Robots XII, Pittsburgh, PA, 14-17 October, 1997, pp 107-118.
@@ -1183,7 +1221,8 @@ If you have other publications to contribute to the archive, please contact Robo
     * Everett, H.R. and D. W. Gage,
       "A Third Generation Security Robot",
       SPIE Mobile Robot and Automated Vehicle Control Systems, Boston, MA, 20-21 November 1996, Vol. 2903, pp 118-126.
-    * Murphy, D.W., J.P. Bott, J.P. Cycon, W.D. Bryan, J.L. Coleman, D.W. Gage, W.C. Marsh, B.F. Martin, H.G. Nguyen, and R. Schneider,
+    * Murphy, D.W., J.P. Bott, J.P. Cycon, W.D. Bryan, J.L. Coleman, D.W. Gage, W.C. Marsh, B.F. Martin, H.G. Nguyen,
+      and R. Schneider,
       "Air-Mobile Ground Security and Surveillance System (AMGSSS) Project Summary Report",
       Technical Document 2914, NCCOSC RDT&E Division, San Diego, CA; September 1996 (AD-A317618).
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1996/td2914.pdf)
@@ -1254,7 +1293,8 @@ If you have other publications to contribute to the archive, please contact Robo
       Proc. ANS 6th Topical Meeting on Robotics and Remote Systems, pp. 838-845, Monterey, CA, 5-10 February, 1995.
     * Holland, J. M., A. Martin, R.P. Smurlo, and H.R. Everett,
       "MDARS Interior Platform",
-      Association of Unmanned Vehicle Systems, 22nd Annual Symposium and Exhibition (AUVS '95), Washington, D.C., 10-12 July, 1995.
+      Association of Unmanned Vehicle Systems, 22nd Annual Symposium and Exhibition (AUVS '95), Washington, D.C.,
+      10-12 July, 1995.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1995/auvsjohn.pdf)
     * Inderieden, R.S., H.R. Everett, T.A. Heath-Pastore, and R.P. Smurlo,
       "Overview of the Mobile Detection Assessment and Response System",
@@ -1262,7 +1302,8 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1995/dndmdars.pdf)
     * Laird, R.T., Gilbreath, G.A., Heath-Pastore, T.A., Everett, H.R., Inderieden, R.S., Grant, K.,
       "MDARS Multiple Robot Host Architecture",
-      Association of Unmanned Vehicle Systems, 22nd Annual Technical Symposium and Exhibition (AUVS '95), Washington, DC, July, 1995.
+      Association of Unmanned Vehicle Systems, 22nd Annual Technical Symposium and Exhibition (AUVS '95),
+      Washington, DC, July, 1995.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1995/auvsmrha.pdf)
     * Martin, B. and D. Bryan,
       "Low-Cost Miniature Interface and Control Systems for Smart Sensors, Tactical Radios, and Computer Networks",
@@ -1273,7 +1314,8 @@ If you have other publications to contribute to the archive, please contact Robo
       Unmanned Systems, Vol. 13, No. 4, Fall 1995.
     * Murray, S.A.,
       "Human-Machine Interaction with Multiple Autonomous Sensors",
-      6th IFAC/IFIP/IFORS/IEA Symposium on Analysis, Design and Evaluation of Man-Machine Systems, Cambridge, MA, June 27-29, 1995.
+      6th IFAC/IFIP/IFORS/IEA Symposium on Analysis, Design and Evaluation of Man-Machine Systems, Cambridge, MA,
+      June 27-29, 1995.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1995/ifac.pdf)
     * Nguyen, H.G. and M.R. Blackburn,
       "A Simple Method for Range Finding via Laser Triangulation",
@@ -1281,7 +1323,8 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1995/td2734.pdf)
     * Smurlo, R. P., R.T. Laird, H.R. Everett, R.S. Inderieden, S. Elaine, and D. M. Jaffee,
       "MDARS Product Assessment System",
-      Association of Unmanned Vehicle Systems, 22nd Annual Symposium and Exhibition (AUVS '95), Washington, D.C., 10-12 July, 1995.
+      Association of Unmanned Vehicle Systems, 22nd Annual Symposium and Exhibition (AUVS '95), Washington, D.C.,
+      10-12 July, 1995.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1995/auvspas.pdf)
     * Uhrich, R. and J. Walton,
       "Supervisory Control of Untethered Undersea Systems: A New Paradigm Verified",
@@ -1322,7 +1365,8 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1994/spie2352.pdf)
     * Everett, H.R., Laird, R.T., Gilbreath, G.A., and T.A. Heath-Pastore,
       "Multiple Host Robotic Architecture",
-      NCCOSC Technical Note 1710, Rev 2, Naval Command Control and Ocean Surveillance Center, RDT&E Division, San Diego, CA, April 1994.
+      NCCOSC Technical Note 1710, Rev 2, Naval Command Control and Ocean Surveillance Center, RDT&E Division,
+      San Diego, CA, April 1994.
     * Feng, L., J. Borenstein, and H. R. Everett,
       "Where am I: Sensors and Methods for Mobile Robot Positioning",
       Technical Report UM-MEAM-94-21, University of Michigan, Ann Arbor, MI, December, 1994.
@@ -1363,7 +1407,8 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1994/SENSORS_1994.pdf)
     * Smurlo, R.T and H.R. Everett,
       "Robotic Inspection of Hazardous Waste Storage Sites: A Navigation Technology Assessment",
-      NCCOSC Technical Note 1739, Naval Command Control and Ocean Surveillance Center, RDT&E Division, San Diego, CA, June, 1994.
+      NCCOSC Technical Note 1739, Naval Command Control and Ocean Surveillance Center, RDT&E Division, San Diego, CA,
+      June, 1994.
 
 ???+ "1993"
 
@@ -1378,8 +1423,10 @@ If you have other publications to contribute to the archive, please contact Robo
       NRaD TD 2456, Naval Command, Control and Ocean Surveillance Center, RDT&E Division, San Diego, California, 1993.
     * Blackburn, M.R., H.G. Nguyen, and T. Tran,
       "Vision based autonomous robot navigation, target tracking, trailing, and obstacle avoidance",
-      in IR-IED '93 Annual Report, NRaD TD 2604, Naval Command, Control and Ocean Surveillance Center RDT&E Division, San Diego, California, 1993.
-    * Bradley, T., W. Cadwallander, P. Calella, K. Eng, H.R. Everett, M. Friedman, T. Lu, C. Periera, R. Smurlo, R. Torres, and D.Troast,
+      in IR-IED '93 Annual Report, NRaD TD 2604, Naval Command, Control and Ocean Surveillance Center RDT&E Division,
+      San Diego, California, 1993.
+    * Bradley, T., W. Cadwallander, P. Calella, K. Eng, H.R. Everett, M. Friedman, T. Lu, C. Periera, R. Smurlo,
+      R. Torres, and D.Troast,
       "Mobile Detection Assessment and Response System (MDARS) Remote Platform Architecture",
       Technical Report NDTM-93005, Armament Research Development and Engineering Center, Picatinny Arsenal, NJ, July, 1993.
     * Everett, H.R., G.A. Gilbreath, T.A. Heath, and R.T. Laird,
@@ -1422,17 +1469,20 @@ If you have other publications to contribute to the archive, please contact Robo
       NCCOSC Technical Report No. 1194, Revision 1, San Diego, CA, December 1992.
     * Everett, H.R., G.A. Gilbreath, R.T. Laird,
       "Multiple Robot Host Architecture",
-      NCCOSC Technical Note 1710, Naval Command Control and Ocean Surveillance Center, RDT&E Division, San Diego, CA, February, 1992.
+      NCCOSC Technical Note 1710, Naval Command Control and Ocean Surveillance Center, RDT&E Division,
+      San Diego, CA, February, 1992.
     * Everett, H.R., G.A. Gilbreath, R.T. Laird, and T.A. Heath,
       "Multiple Robot Host Architecture",
-      NCCOSC Technical Note 1710, Revision 1, Naval Command Control and Ocean Surveillance Center, RDT&E Division, San Diego, CA, November, 1992.
+      NCCOSC Technical Note 1710, Revision 1, Naval Command Control and Ocean Surveillance Center, RDT&E Division,
+      San Diego, CA, November, 1992.
     * Gage, D.W.,
       "Sensor Abstractions to Support Many-Robot Systems,"
       Proceedings of SPIE Mobile Robots VII, Boston MA, 18-20 November 1992, volume 1831, pp 235-246.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1992/spie92.pdf)
     * Gage, D.W.,
       "Command Control for Many-Robot Systems",
-      Proceedings of AUVS-92, 19th Annual Technical Symposium and Exhibition of the Association for Unmanned Vehicle Systems, Huntsville AL,
+      Proceedings of AUVS-92, 19th Annual Technical Symposium and Exhibition of the Association for Unmanned Vehicle Systems,
+      Huntsville AL,
       22-24 June 1992. Reprinted in Unmanned Systems Magazine, Fall 1992, volume 10, number 4, pp 28-34.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1992/auvs92.pdf)
     * Grace, D.R.,
@@ -1455,7 +1505,8 @@ If you have other publications to contribute to the archive, please contact Robo
       NRaD TR 1533, Naval Command, Control and Ocean Surveillance Center, RDT&E Division, San Diego, CA, Nov. 1992.
     * Metz, C.D., Everett, H.R., Myers, S.,
       "Recent Developments in Tactical Unmanned Ground Vehicles",
-      Association for Unmanned Vehicle Systems, 19th Annual Technical Symposium and Exhibition (AUVS '92), Huntsville, AL, June, 1992.
+      Association for Unmanned Vehicle Systems, 19th Annual Technical Symposium and Exhibition (AUVS '92),
+      Huntsville, AL, June, 1992.
     * Osborne, P.D. and C.C. Geurin,
       "Advanced Unmanned Search System (AUSS) Surface Navigation, Underwater Tracking, and Transponder Network Calibration",
       NRaD TR 1532, Naval Command, Control and Ocean Surveillance Center, RDT&E Division, San Diego, CA, Oct. 1992.
@@ -1467,7 +1518,8 @@ If you have other publications to contribute to the archive, please contact Robo
       NRaD TD 2336, Naval Command, Control and Ocean Surveillance Center, RDT&E Division, San Diego, CA, Sep. 1992.
     * Shimamoto, M.S.,
       "TeleOperator/telePresence System (TOPS) Concept Verification Model (CVM) Development",
-      in Recent Advances in Marine Science and Technology, '92, Saxena, N.K., ed., Pacon International, Honolulu, HI, pp. 97-104.
+      in Recent Advances in Marine Science and Technology, '92, Saxena, N.K., ed., Pacon International,
+      Honolulu, HI, pp. 97-104.
     * Smurlo, R.P. and H.R. Everett,
       "Intelligent Security Assessment for a Mobile Robot",
       Sensors Expo, Chicago, IL, pp. 125-132, September, 1992.
@@ -1496,7 +1548,8 @@ If you have other publications to contribute to the archive, please contact Robo
       "Oceanic Applications of Fiber Optics",
       IEEE Proceedings of OCEANS 1991 Conference, October 1-3, 1991, Honolulu, HI, Vol. 1, pp. 161-168.
     * Bryan, D., B. Gillcrist, and R. Reich,
-      "The Underwater Docking and Transfer of High Bandwidth Data Between an Unmanned Submersible and a Remote Underwater Platform",
+      "The Underwater Docking and Transfer of High Bandwidth Data Between an Unmanned Submersible and a Remote
+      Underwater Platform",
       OCEANS 1991 Conference Proceedings, October 1-3, 1991, Honolulu, HI, Vol. 3, pp. 1275-1281.
     * Laird, R.T., Smurlo, R.P., and S.R. Timmer,
       "Development of a Modular Robotic Architecture,"
@@ -1542,7 +1595,8 @@ If you have other publications to contribute to the archive, please contact Robo
 
 ???+ "1990"
 
-    * Aviles, W.A., T.W. Hughes, H.R. Everett, A.Y. Umeda, S.W. Martin, A.H. Koyamatsu, M.R. Solorzano, R.T. Laird, and S.P. McArthur,
+    * Aviles, W.A., T.W. Hughes, H.R. Everett, A.Y. Umeda, S.W. Martin, A.H. Koyamatsu, M.R. Solorzano, R.T. Laird,
+      and S.P. McArthur,
       "Issues in Mobile Robotics: The Unmanned Ground Vehicle Program TeleOperated Vehicle (TOV)",
       SPIE Vol. 1388, Mobile Robots V, Boston, MA, pp. 587-597, 8-9 November, 1990.
     * Blackburn, M.R. and H.G. Nguyen,
@@ -1567,12 +1621,14 @@ If you have other publications to contribute to the archive, please contact Robo
       SPIE Proc 1388: Mobile Robots V, November, 1990, pp. 291-298.
     * Gage, D.W.,
       "Security Considerations for Autonomous Robots",
-      Computer Security Journal, vol VI, nbr 1, 1990, pp 95-99. Reprinted from Symposium on Security and Privacy, Oakland CA, 22-24 April 1985,
+      Computer Security Journal, vol VI, nbr 1, 1990, pp 95-99. Reprinted from Symposium on Security and Privacy,
+      Oakland CA, 22-24 April 1985,
       Proceedings pp 224-228.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1990/secur85.pdf)
     * Laird, R.T. and H.R. Everett,
       "Reflexive Teleoperated Control",
-      Association For Unmanned Vehicle Systems, 17th Annual Technical Symposium and Exhibition (AUVS '90), Dayton, OH, pp. 280-292, July-August, 1990.
+      Association For Unmanned Vehicle Systems, 17th Annual Technical Symposium and Exhibition (AUVS '90),
+      Dayton, OH, pp. 280-292, July-August, 1990.
     * McDonnell, J.R., M.R. Solorzano, S.W. Martin, and A.Y. Umeda,
       "A Head Coupled Sensor Platform for Teleoperated Ground Vehicles",
       Unmanned Systems, Vol. 8, No. 4, Fall 1990.
@@ -1582,7 +1638,8 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1990/a232007.pdf)
     * Solorzano, M.R., and D.W. Gage,
       "A Surveillance and Targeting System for an Unmanned Ground Vehicle",
-      Association For Unmanned Vehicle Systems, 17th Annual Technical Symposium and Exhibition (AUVS '90), Dayton, OH, July-August, 1990.
+      Association For Unmanned Vehicle Systems, 17th Annual Technical Symposium and Exhibition (AUVS '90),
+      Dayton, OH, July-August, 1990.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1990/auvs90.pdf)
     * Yen, M.M., M.R. Blackburn, and H.G. Nguyen,
       "Feature maps based weight vectors for spatiotemporal pattern recognition with neural nets",
@@ -1600,7 +1657,8 @@ If you have other publications to contribute to the archive, please contact Robo
       OCEANS 1989 Conference Proceedings, September 18-21, 1989, Seattle, WA, pp. 788-792.
     * Durham, J., B.W. Gillcrist, and P.J. Heckman,
       "A Testbed Processor for Embedded Multi-Computing",
-      Proceedings of the 6th Annual International Symposium on Unmanned Untethered Submersible Technology, June 12-14, 1989, Washington D.C., pp. 320-330.
+      Proceedings of the 6th Annual International Symposium on Unmanned Untethered Submersible Technology,
+      June 12-14, 1989, Washington D.C., pp. 320-330.
     * Everett, H.R.,
       "Survey of Collision Avoidance and Ranging Sensors for Mobile Robots",
       Robotics and Autonomous Systems, Vol. 5, No. 1, Elsevier Science B.V., North-Holland, pp. 5-67, 1989.
@@ -1612,7 +1670,8 @@ If you have other publications to contribute to the archive, please contact Robo
       Robotics and Autonomous System, Vol. 4, No. 4, Elsevier Science B.V., North-Holland, pp. 281-308, 1989.
     * Everett, H.R., G.A. Gilbreath, and D.W. Gage,
       "Environmental Modeling for Mobile Security Robots",
-      CPIA Publication 517, Proceedings, Second Annual Navy IR/IED Symposium, The John Hopkins University APL, Laurel MD, Volume I, pp 29-42, June, 1989.
+      CPIA Publication 517, Proceedings, Second Annual Navy IR/IED Symposium, The John Hopkins University APL,
+      Laurel MD, Volume I, pp 29-42, June, 1989.
     * Gillcrist, B.W.,
       "Conversion of a Mine Neutralization Vehicle to a Free-Swimming Mine Neutralization Vehicle",
       NOSC TD 1653, San Diego CA, November 1989.
@@ -1644,7 +1703,8 @@ If you have other publications to contribute to the archive, please contact Robo
       NOSC TD 1191, July 1988.
     * Everett, H.R.,
       "Security and Sentry Robots",
-      International Encyclopedia Of Robotics Applications And Automation, Dorf, R.C., ed., John Wiley and Sons, pp. 1462-1476, March, 1988.
+      International Encyclopedia Of Robotics Applications And Automation, Dorf, R.C., ed., John Wiley and Sons,
+      pp. 1462-1476, March, 1988.
     * Everett, H.R.,
       "Survey of Collision Avoidance and Ranging Sensors for Mobile Robots",
       NOSC Technical Report 1194, Naval Ocean Systems Center, San Diego, CA, March, 1988.
@@ -1694,7 +1754,8 @@ If you have other publications to contribute to the archive, please contact Robo
       NOSC TD 1180, Naval Ocean Systems Center, San Diego, CA, October 1987.
     * Durham, J., et al.,
       "EAVE-West: A Testbed for Plan Execution",
-      Proceedings of the 5th International Symposium on Unmanned Untethered Submersible Technology, June 22-24, 1987, Washington, D.C., Vol. 1, p. 33.
+      Proceedings of the 5th International Symposium on Unmanned Untethered Submersible Technology, June 22-24, 1987,
+      Washington, D.C., Vol. 1, p. 33.
     * Everett, H.R.,
       "Non-Contact Ranging Systems for Mobile Robots",
       Sensors, Vol. 4, No. 4, April 1987, pp. 9-19.
@@ -1760,7 +1821,8 @@ If you have other publications to contribute to the archive, please contact Robo
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1985/Everett%201985%20WP.pdf)
     * Everett, H.R.,
       "Shipboard Applications: Are the Robots Really Coming?"
-      22nd Annual Technical Symposium, Association of Scientists and Engineers, Naval Sea Systems Command, Washington, DC, 1985.
+      22nd Annual Technical Symposium, Association of Scientists and Engineers, Naval Sea Systems Command,
+      Washington, DC, 1985.
     * Everett, H.R.,
       "Robotics in the Navy: Industrial Development Efforts",
       Robotics Age, pp. 6-11, November, 1985.
@@ -1796,7 +1858,8 @@ If you have other publications to contribute to the archive, please contact Robo
       International Conference on Robotics, Atlanta GA, 13-15 March 1984, Proceedings pp 571-573.
     * Harmon, S.Y. and D.W. Gage,
       "Current Technical Research Issues of Autonomous Robots Employed in Combat",
-      1984 EASCON: 17th Annual Electronics and Aerospace Conference, Washington DC, 11-13 September 1984, Proceedings pp 215-219.
+      1984 EASCON: 17th Annual Electronics and Aerospace Conference, Washington DC, 11-13 September 1984,
+      Proceedings pp 215-219.
       [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/1984/eascon84.pdf)
     * Harmon, S.Y., D.W. Gage, W.A. Aviles, and G.L. Bianchini,
       "Coordination of Intelligent Subsystems in Complex Robots",
@@ -1816,7 +1879,8 @@ If you have other publications to contribute to the archive, please contact Robo
       IEEE COMPSAC 83, Chicago IL, 7-11 November 1983, Proceedings pp 494-495.
     * Harmon, S.Y.,
       "Artificial Intelligence for Autonomous Vehicle Systems",
-      1983 symposium for Association for Unmanned Vehicle Systems, Salt Lake City UT, 28-30 June 1983, Proceedings pp 17-1 - 17-6.
+      1983 symposium for Association for Unmanned Vehicle Systems, Salt Lake City UT, 28-30 June 1983,
+      Proceedings pp 17-1 - 17-6.
     * Harmon, S.Y.,
       "Coordination between Control and Knowledge Based Systems for Autonomous Vehicle Guidance",
       IEEE Trends and Applications 1983, Gaithersburg MD, 25-26 May 1983, Proceedings pp 8-11.
