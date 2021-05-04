@@ -10,3 +10,6 @@ theme: material
 # Allow accordion (expand/collapse) sections: https://facelessuser.github.io/pymdown-extensions/extensions/details/
 markdown_extensions:
     - pymdownx.details
+
+plugins:
+  - search
