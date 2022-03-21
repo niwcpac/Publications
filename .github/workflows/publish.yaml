@@ -1,5 +1,5 @@
 ---
-name: Publish
+name: Publish Site
 
 on:  # NOLINT
   push:
@@ -16,14 +16,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Sphinx lint
-        uses: ammaraskar/sphinx-action@master
-        with:
-          docs-folder: 'docs/'
-
-      - name: Publish documentation
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: site
-          publish_branch: gh-pages
+      - name: Deploy docs
+        uses: mhausenblas/mkdocs-deploy-gh-pages@master
+        # Or use mhausenblas/mkdocs-deploy-gh-pages@nomaterial to build without the mkdocs-material theme
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
