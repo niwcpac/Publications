@@ -20,3 +20,4 @@ jobs:
         uses: sscpac/statick-action@v0.0.2
         with:                                                                                                           
           profile: documentation.yaml
+          user_paths: statick-config

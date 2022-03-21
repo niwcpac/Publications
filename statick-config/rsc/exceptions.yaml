@@ -1,0 +1,7 @@
+---
+global:
+  exceptions:
+    file:
+      # System files.
+      - tools: all
+        globs: ["/usr/*"]
