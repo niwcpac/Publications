@@ -1,5 +1,6 @@
-*~
+*.bak
+*.code-workspace
 *.swo
 *.swp
-*.bak
+*~
 site
