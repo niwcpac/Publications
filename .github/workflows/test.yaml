@@ -1,0 +1,22 @@
+---
+name: Statick
+
+on: # NOLINT
+  pull_request:
+  push:
+  schedule:
+    - cron: '0 10 * * MON'
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Statick Markdown                                                                                          
+        uses: sscpac/statick-action@v0.0.2
+        with:                                                                                                           
+          profile: documentation.yaml
