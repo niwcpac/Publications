@@ -6,6 +6,13 @@ The index is listed by year in reversed chronological order and alphabetically b
 Click the year to expand the list of publications from that year.
 If you have other publications to contribute to the archive, please contact RoboPubs@gmail.com.
 
+???+ "2021"
+
+    * Talke, Kurt, (2021),
+      "Hanging Tether Management for Unmanned Air - Surface Vehicle Teams",
+      Doctoral Dissertation, University of California, San Diego,
+      [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2021/Talke_Dissertation.pdf)
+
 ???+ "2019"
 
     * Nguyen, H.G., Nahill, B., Pezeshkian, N., Wilson, D.A., Yen, J., Leemaster, J., Telle, B., Suero, R.,
