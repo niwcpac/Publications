@@ -14,8 +14,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-
       - name: Statick Markdown                                                                                          
         uses: sscpac/statick-action@v0.0.2
         with:                                                                                                           
