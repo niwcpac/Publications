@@ -2,6 +2,6 @@
 global:
   exceptions:
     file:
-      # System headers
+      # System files.
       - tools: all
         globs: ["/usr/*"]
