@@ -6,6 +6,13 @@ The index is listed by year in reversed chronological order and alphabetically b
 Click the year to expand the list of publications from that year.
 If you have other publications to contribute to the archive, please contact RoboPubs@gmail.com.
 
+???+ "2022"
+
+    * Talke, K., Birchmore, F., and T. Bewley,
+      "Autonomous Hanging Tether Management and Experimentation for an Unmanned Air - Surface Vehicle Team",
+      Journal of Field Robotics, 39, 869– 887, May 2022.
+      [![PDF](pdf.png)](https://github.com/RoboPubs/Publications/tree/master/2022/Talke_FieldRobotics.pdf)
+
 ???+ "2021"
 
     * Talke, Kurt, (2021),
