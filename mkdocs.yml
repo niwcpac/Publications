@@ -1,15 +1,15 @@
 site_name: NIWC Pacific Unmanned Systems and Robotics
-site_url: https://niwcpac.github.io/Publications
+site_url: https://niwcpac.github.io/publications
 site_description: An archive of unmanned systems and robotics papers from U.S. Navy Information Warfare Center (NIWC) Pacific
 
-repo_name: niwcpac/Publications
-repo_url: https://github.com/niwcpac/Publications
+repo_name: niwcpac/publications
+repo_url: https://github.com/niwcpac/publications
 
 theme: material
 
 # Allow accordion (expand/collapse) sections: https://facelessuser.github.io/pymdown-extensions/extensions/details/
 markdown_extensions:
-    - pymdownx.details
+  - pymdownx.details
 
 plugins:
   - search
