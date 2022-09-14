@@ -5,3 +5,6 @@ global:
       # System files.
       - tools: all
         globs: ["/usr/*"]
+      # Python virtual environment.
+      - tools: all
+        globs: ["venv*"]
