@@ -1,5 +1,5 @@
 site_name: NIWC Pacific Unmanned Systems and Robotics
-site_url: https://github.com/niwcpac/publications
+site_url: ""
 site_description: An archive of unmanned systems and robotics papers from U.S. Navy Information Warfare Center (NIWC) Pacific
 
 repo_name: niwcpac/publications
@@ -15,8 +15,8 @@ plugins:
   - search
 
 # https://stackoverflow.com/questions/69237778/how-to-embed-a-local-pdf-file-in-mkdocs-generated-website-on-github-pages
-# markdown_extensions:
-#   - pymdownx.pathconverter:
-#       base_path: 'https://github.com/niwcpac/publications' # default: ''
-#       relative_path: '' # default ''
-#       absolute: true # default: false
+markdown_extensions:
+  - pymdownx.pathconverter:
+      base_path: 'https://github.com/niwcpac/publications' # default: ''
+      relative_path: '' # default ''
+      absolute: true # default: false
