@@ -13,10 +13,3 @@ markdown_extensions:
 
 plugins:
   - search
-
-# https://stackoverflow.com/questions/69237778/how-to-embed-a-local-pdf-file-in-mkdocs-generated-website-on-github-pages
-markdown_extensions:
-  - pymdownx.pathconverter:
-      base_path: 'https://github.com/niwcpac/publications' # default: ''
-      relative_path: '' # default ''
-      absolute: true # default: false
