@@ -143,6 +143,12 @@ If you have other publications to contribute to the archive, please contact Robo
       SPIE Proc. 10195: Unmanned Systems Technology XIX, Anaheim, CA, April 11-13, 2017.
       [![PDF](pdf.png)](https://github.com/niwcpac/Publications/blob/main/2017/101950M.pdf)
 
+    * Harguess, J., Miclat, J., and Raheema, J.,
+      "Using image quality metrics to identify adversarial imagery for deep learning networks",
+      Proc. SPIE 10199, Geospatial Informatics, Fusion, and Motion Video Analytics VII, 1019907,
+      1 May 2017; <https://doi.org/10.1117/12.2263584>.
+      [![PDF](pdf.png)](https://github.com/niwcpac/Publications/blob/main/2017/harguess_image_quality_metrics.pdf)
+
     * Kelley, L., Ouimet, M., Croft, B., Gustafson, E, and L. Martinez,
       "An Approach to Integrating Human Knowledge into Agent-Based Planning",
       Workshop on Impedance Matching in Cognitive Partnerships, 2017 International Joint Conference on Artificial Intelligence
